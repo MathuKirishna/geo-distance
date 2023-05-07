@@ -11,4 +11,7 @@ def find_last_name(line:str) -> str:
     return last_place_name
 
 
+nlp = spacy.load('en_core_web_sm')
+print(nlp)
+
 
