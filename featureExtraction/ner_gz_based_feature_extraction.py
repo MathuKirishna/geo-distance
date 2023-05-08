@@ -43,7 +43,7 @@ for index in null_data_index:
     df=df.drop(index)
 print(df.head)
 
-df.to_csv('../data/sub_feature_extracted_200.csv', header=True, sep=',', index=False)
+df.to_csv('../data/ner_feature_extracted_200.csv', header=True, sep=',', index=False)
 
 # for index, row in df.iterrows():
 #     last_place_name = find_last_name(row['Locality'])

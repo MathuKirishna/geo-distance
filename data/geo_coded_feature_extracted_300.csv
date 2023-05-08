@@ -1,0 +1,255 @@
+Locality,DecimalLatitude,DecimalLongitude,place_names,last_place_name,last_place_name_feature_type,source_latitude,source_longitude
+ridge above north stream /moa confluence,-43.128866,171.242263,"{'place_name': 'north stream', 'feature_type': 'Stream'}",north stream,Stream,-40.352473950000004,175.58689557599507
+"the gorge creek, pikikiruna range, north west nelson",-40.953007,172.846799,"[{'place_name': 'the gorge creek', 'feature_type': 'Stream'}, {'place_name': 'pikikiruna range', 'feature_type': 'Range'}]",nelson,City,-41.2710849,173.2836756
+lindis pass,-44.588348,169.64329,"[{'place_name': 'lindis pass', 'feature_type': 'Pass'}]",lindis pass,Pass,-44.5882397,169.6430643
+"hawkes bay, south hawkes bay, makotuku",-40.134586,176.227777,"[{'place_name': 'makotuku', 'feature_type': 'Locality'}]",makotuku,Locality,-40.1213644,176.2332422
+"tata point, north west nelson",-40.8042,172.9167,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,-41.2710849,173.2836756
+buller county: dolomite point scenic reserve.,-42.115004,171.326531,"[{'place_name': 'dolomite point', 'feature_type': 'Point'}]",dolomite point,Point,-42.1138966,171.3259792
+oamaru,-45.096145,170.98057,"[{'place_name': 'oamaru', 'feature_type': 'Town'}]",oamaru,Town,-45.0997681,170.9684232
+"tiritiri matangi, entrance to lighthouse on wooden carving of takahe",-36.605422,174.895235,"[{'place_name': 'tiritiri', 'feature_type': 'Hill'}]",matangi,Locality,-39.7339038,176.8691601
+"canterbury, lake tekapo.",-44.008729,170.479332,"[{'place_name': 'lake tekapo', 'feature_type': 'Locality'}]",lake tekapo,Locality,-43.89344815,170.52402115790798
+tin range,-47.132004,167.750132,"[{'place_name': 'tin range', 'feature_type': 'Range'}]",tin range,Range,-47.11933,167.75848
+"wairua fall, whangarei co",-35.746252,174.083948,"[{'place_name': 'wairua', 'feature_type': 'Hill'}]",wairua,Hill,-43.7662917,-176.383592
+springs junction,-42.333134,172.181044,"[{'place_name': 'springs junction', 'feature_type': 'Locality'}]",springs junction,Locality,-42.3347563,172.1817907
+"rotorua, tikitere",-38.064575,176.355697,"[{'place_name': 'rotorua', 'feature_type': 'City'}]",tikitere,Locality,-38.0729939,176.3361453
+"totara reserve, pohangina v.,",-40.12187,175.85953,"[{'place_name': 'totara', 'feature_type': 'Locality'}]",pohangina,Village,-40.1707737,175.7947468
+"marlborough, near hapuka [hapuku] river, kaikoura area",-42.310593,173.708619,"[{'place_name': 'marlborough', 'feature_type': 'Suburb'}]",hapuku,Locality,-42.3104486,173.7139981
+"horowhenua district, hokio, near stream mouth",-40.600782,175.174441,"[{'place_name': 'horowhenua district', 'feature_type': 'Local Authority'}]",hokio,Hill,-39.631852,175.719807
+"kaitake range - egmont national park, timaru stream",-39.194039,173.96546,"[{'place_name': 'kaitake range', 'feature_type': 'Range'}, {'place_name': 'egmont national park', 'feature_type': 'National Park'}]",timaru,Town,-44.3930254,171.2509786
+"auckland, onehunga",-36.916,174.783,"[{'place_name': 'auckland', 'feature_type': 'Local Authority'}]",onehunga,Suburb,-36.9237924,174.7857738
+"mead hill, south west of chalk ra., marlborough",-41.94596,173.8213,"[{'place_name': 'mead hill', 'feature_type': 'Hill'}]",marlborough,Suburb,-41.47447475,173.8330262577606
+"deep bay, stewart island",-46.905,168.135,"[{'place_name': 'deep bay', 'feature_type': 'Bay'}]",stewart island,Island,-46.986719699999995,167.88213801660544
+"access point werati beach, cape reinga",-34.461615,172.68789,"[{'place_name': 'cape reinga', 'feature_type': 'Locality'}]",cape reinga,Locality,-34.4201843,172.6793483
+"aulds creek, 2m south of reefton, inangahua co., nelson",-42.1417,171.87067,"[{'place_name': 'reefton', 'feature_type': 'Town'}, {'place_name': 'inangahua', 'feature_type': 'Locality'}]",nelson,City,-41.2710849,173.2836756
+"whangarei county, whangaruru north head",-35.379657,174.371659,"[{'place_name': 'whangaruru north', 'feature_type': 'Locality'}]",whangaruru north,Locality,-35.3425868,174.3440626
+"tauranga bat, buller co.",-41.77234,171.448545,"[{'place_name': 'tauranga', 'feature_type': 'Hill'}]",tauranga,Hill,-37.6859006,176.167505
+"track to jack's crk, maimai valley, west of reefton",-42.08683,171.769779,"[{'place_name': 'jack', 'feature_type': 'Hill'}, {'place_name': 'maimai', 'feature_type': 'Hill'}]",reefton,Town,-42.1159384,171.8634561
+"whanganui, durie hill, 22 forres st",-39.93433,175.06291,"[{'place_name': 'whanganui', 'feature_type': 'Locality'}]",durie hill,Suburb,-39.9387491,175.0692835
+"north island, matata, channel near nw lagoon",-37.88689,176.76088,"[{'place_name': 'north island', 'feature_type': 'Island'}]",north island,Island,-46.81661455,168.23912089628956
+"westland, punakaiki ecological district, mahers swamp.",-42.167596,171.322605,"[{'place_name': 'punakaiki', 'feature_type': 'Locality'}]",punakaiki,Locality,-42.1085542,171.3353148
+"hunua ranges, ploughs road",-37.040231,175.178971,"[{'place_name': 'hunua ranges', 'feature_type': 'Range'}]",hunua ranges,Range,-37.09362405,175.1800327655045
+"paparoa range, charleston, metro cave",-41.933333,171.466666,"[{'place_name': 'paparoa range', 'feature_type': 'Range'}, {'place_name': 'charleston', 'feature_type': 'Locality'}]",cave,Locality,-44.3112471,170.9509668
+"mackenzie basin, north west of twizel",-44.222373,170.034536,"[{'place_name': 'twizel', 'feature_type': 'Town'}]",twizel,Town,-44.257483,170.0994145
+"fiordland, mount george, rocky basin immediately north of peak.",-45.456699,167.23158,"[{'place_name': 'mount george', 'feature_type': 'Hill'}]",peak,Hill,-40.854352,175.830877
+"mount egmont, dawson falls road",-39.316111,174.1,"[{'place_name': 'mount egmont', 'feature_type': 'Hill'}]",dawson falls,Waterfall,-39.3234132,174.1039895
+"blue mountains ridge, silverstream, hutt valley",-41.1376,175.141,"[{'place_name': 'blue mountains', 'feature_type': 'Range'}]",silverstream,Suburb,-41.1472951,175.0102869
+"christchurch, addington, old addington railway workshops site",-43.546775,172.603877,"[{'place_name': 'christchurch', 'feature_type': 'City'}, {'place_name': 'addington', 'feature_type': 'Suburb'}]",addington,Suburb,-43.5429362,172.6125849
+"new zealand, north island, te paki ecological region and district, te paki, north cape, north cape scientific reserve, surville cliffs, ""galloway bush""",-34.394472,173.009026,"[{'place_name': 'north island', 'feature_type': 'Island'}, {'place_name': 'te paki', 'feature_type': 'Locality'}, {'place_name': 'te paki', 'feature_type': 'Hill'}, {'place_name': 'north cape', 'feature_type': 'Cape'}, {'place_name': 'north cape scientific reserve', 'feature_type': 'Scientific Reserve'}, {'place_name': 'surville cliffs', 'feature_type': 'Cliff'}]",galloway,Locality,-45.2099648,169.4575667
+"omahuta state forest, near mangamuka bridge, kauri sanctury",-35.23915,173.626731,"[{'place_name': 'omahuta', 'feature_type': 'Locality'}, {'place_name': 'mangamuka bridge', 'feature_type': 'Locality'}]",kauri,Locality,-36.014639,174.090889
+"junction jones / hinds-arundel roads, canty. plains",-43.980207,171.411215,"[{'place_name': 'hinds', 'feature_type': 'Locality'}]",arundel,Locality,-43.9762004,171.2932624
+"north auckland, shore-line west of duck creek, manukau harbour",-36.823946,174.710592,"[{'place_name': 'auckland', 'feature_type': 'City'}, {'place_name': 'duck creek', 'feature_type': 'Stream'}]",manukau harbour,Bay,-37.086474300000006,174.7288539724189
+"deer spur walk, peel forest park, stop 5",-43.891,171.24,"[{'place_name': 'deer spur', 'feature_type': 'Ridge'}]",peel forest,Locality,-43.911219,171.2603756
+"auckland islands, magnetic survey bay ",-50.866666,166.008333,"[{'place_name': 'auckland islands', 'feature_type': 'Island'}]",survey bay,Bay,-50.8654217,165.9890303
+wellington city,-41.310315,174.767769,"[{'place_name': 'wellington city', 'feature_type': 'Local Authority'}]",wellington city,Local Authority,-41.25275310000001,174.7184709414953
+cape runaway area,-37.577717,178.087846,"[{'place_name': 'cape runaway', 'feature_type': 'Point'}]",cape runaway,Point,-37.5373501,177.9812397
+"puketi forest, waipapa river track",-35.275583,173.685766,"[{'place_name': 'puketi forest', 'feature_type': 'Conservation Park'}]",waipapa river,Stream,-35.2230936,173.6863266
+head of flea bay,-43.871442,172.999854,"[{'place_name': 'flea bay', 'feature_type': 'Bay'}]",flea bay,Bay,-43.8764271,173.0156241
+"north canterbury, lewis river, dan's creek",-42.484484,172.388136,"[{'place_name': 'lewis river', 'feature_type': 'Stream'}]",lewis river,Stream,-42.4613536,172.3998662
+near te waewae,-46.202875,167.65543,"[{'place_name': 'te waewae', 'feature_type': 'Locality'}]",te waewae,Locality,-40.8741024,176.2239533
+"the dunes, kairaki (nr christchurch).",-43.376404,172.705135,"[{'place_name': 'kairaki', 'feature_type': 'Locality'}]",christchurch,City,-43.530955,172.6366455
+"hunters hills, road to meyer's pass",-44.5,170.816111,"[{'place_name': 'meyer', 'feature_type': 'Hill'}]",meyer,Hill,-44.774611,170.612972
+"mokau river, tauwhare scenic reserve",-38.712915,174.651343,"[{'place_name': 'mokau river', 'feature_type': 'Stream'}]",tauwhare,Locality,-35.4097758,173.3415556
+hukutaia domain,-38.068638,177.2658,"[{'place_name': 'domain', 'feature_type': 'Place'}]",domain,Place,-41.76749565,171.59967104340677
+"kawarau gorge, gentle annie",-41.16778,173.49039,"[{'place_name': 'kawarau gorge', 'feature_type': 'Locality'}]",gentle annie,Hill,-39.17313,175.13786
+"nevis river, 0.5 km from mouth",-45.083055,169.016111,"[{'place_name': 'nevis river', 'feature_type': 'Stream'}]",nevis river,Stream,-45.2244335,168.9712216
+"main south road, just north of rakaia river, bankside near highway 1",-43.712147,172.085058,"[{'place_name': 'rakaia river', 'feature_type': 'Stream'}]",bankside,Locality,-43.7013985,172.0894436
+stewart island:  near summit of mt anglem,-46.742386,167.911122,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",summit,Locality,-40.4609278,176.1211144
+"brattys bush scenic reserve, ngunguru",-35.610598,174.486687,"[{'place_name': 'brattys bush scenic reserve', 'feature_type': 'Scenic Reserve'}]",ngunguru,Locality,-35.6333633,174.5007751
+"wanganui, wanganui city, corner ingestre and st hill streets",-39.931961,175.044108,"[{'place_name': 'wanganui', 'feature_type': 'City'}]",wanganui,City,-39.9324904,175.0519306
+"raukumara range, mount honokawa.",-37.83989,177.98225,"[{'place_name': 'mount honokawa', 'feature_type': 'Hill'}]",mount honokawa,Hill,-37.8449689,177.9722947
+"canterbury, lake sumner at the head",-42.704265,172.161934,"[{'place_name': 'lake sumner', 'feature_type': 'Lake'}]",lake sumner,Lake,-42.70499305,172.21024395719928
+"deer spur, peel forest scenic rserve, south canterbury",-43.891062,171.238376,"[{'place_name': 'deer spur', 'feature_type': 'Ridge'}]",peel forest,Locality,-43.911219,171.2603756
+"fox river canyon, west paparoas",-42.047605,171.422805,"[{'place_name': 'fox river', 'feature_type': 'Stream'}]",fox river,Stream,-43.5007252,170.056968
+"kermadec islands, south meyer, denham bay",-29.247,-177.878,"[{'place_name': 'kermadec islands', 'feature_type': 'Island'}, {'place_name': 'meyer', 'feature_type': 'Hill'}]",denham bay,Bay,-29.2625711,-177.951907
+"st. arnaud range, nelson",-41.823468,172.892934,"[{'place_name': 'st. arnaud range', 'feature_type': 'Range'}]",nelson,City,-41.2710849,173.2836756
+"opotiki, woodlands",-38.064789,177.216349,"[{'place_name': 'woodlands', 'feature_type': 'Locality'}]",woodlands,Locality,-46.35975,168.54652
+"mid dome, red duster creek",-45.5831,168.533,"[{'place_name': 'mid dome', 'feature_type': 'Hill'}]",mid dome,Hill,-45.5848922,168.5372243
+"rimutaka range, east of summit.",-41.111103,175.244765,"[{'place_name': 'rimutaka range', 'feature_type': 'Range'}]",summit,Hill,-40.4609278,176.1211144
+"soil bureau property, taita",-41.1856,174.961,"[{'place_name': 'taita', 'feature_type': 'Hill'}]",taita,Hill,-35.0907445,173.7556292
+"terrace on the west bank of the kowhai river valley, upstream from sandy creek",-42.339067,173.5497,"[{'place_name': 'terrace', 'feature_type': 'Flat'}, {'place_name': 'kowhai river', 'feature_type': 'Stream'}]",sandy creek,Stream,-42.3417576,173.560733
+"mt honokawa [whanokao], raukumara ra.",-37.853631,177.977521,"[{'place_name': 'whanokao', 'feature_type': 'Hill'}]",whanokao,Hill,-37.8449689,177.9722947
+"waipapa station, south bank, clarence r.",-42.167043,173.859277,"[{'place_name': 'waipapa', 'feature_type': 'Locality'}, {'place_name': 'south bank', 'feature_type': 'Bank'}]",clarence,Locality,-42.1560429,173.9269144
+"lake tekapo, near power-house",-44.010145,170.461804,"[{'place_name': 'lake tekapo', 'feature_type': 'Locality'}]",lake tekapo,Locality,-43.89344815,170.52402115790798
+"upper taieri plain, vicinity of patearoa power station; c. 1 km upstream of styx/patearoa road; near holiday crib at road end.",-45.335095,169.951318,"[{'place_name': 'upper taieri plain', 'feature_type': 'Flat'}, {'place_name': 'patearoa', 'feature_type': 'Locality'}, {'place_name': 'patearoa', 'feature_type': 'Locality'}]",end,Hill,-39.282606,176.498212
+"south auckland, hamilton ecological district, rototuna, thomas road.",-37.730188,175.280251,"[{'place_name': 'auckland', 'feature_type': 'City'}, {'place_name': 'hamilton', 'feature_type': 'City'}]",rototuna,Suburb,-37.7356727,175.2694426
+"epsom, showgrounds, grandstand roof",-36.890466,174.782148,"[{'place_name': 'epsom', 'feature_type': 'Suburb'}]",epsom,Suburb,-36.8858447,174.7734616
+"erua, near national park, near margin of erua state forest",-39.166,175.368,"[{'place_name': 'erua', 'feature_type': 'Locality'}, {'place_name': 'national park', 'feature_type': 'Village'}]",erua,Locality,-39.227075,175.3965571
+"christchurch, near thorrington primary school",-43.564858,172.628515,"[{'place_name': 'christchurch', 'feature_type': 'City'}]",christchurch,City,-43.530955,172.6366455
+"levin, ohau river, cresswell's gravel quarry, gladstone rd extension",-40.6647,175.36,"[{'place_name': 'levin', 'feature_type': 'Town'}]",gladstone,Locality,-46.39204,168.3555099
+"headwaters of piraruhe stream, between wanganui river and national park",-39.307,175.084,"[{'place_name': 'piraruhe stream', 'feature_type': 'Stream'}, {'place_name': 'wanganui river', 'feature_type': 'Stream'}]",national park,Village,-39.1727294,175.4037274
+marlborough: monkey face,-42.428778,173.405852,"[{'place_name': 'marlborough', 'feature_type': 'Suburb'}]",marlborough,Suburb,-41.47447475,173.8330262577606
+irene saddle [pass] to coronation peak,-45.224162,167.253547,"[{'place_name': 'saddle', 'feature_type': 'Hill'}]",coronation peak,Hill,-45.23209,167.27302
+"head of lake sumner, north canterbury - outlet of hurunui river",-42.717472,172.276633,"[{'place_name': 'lake sumner', 'feature_type': 'Lake'}]",hurunui river,Stream,-42.8181446,172.6109052
+"mount aspiring national park, upper arawata valley",-44.32907,168.75412,"[{'place_name': 'mount aspiring national park', 'feature_type': 'National Park'}]",mount aspiring national park,National Park,-44.34990745,168.7148481596373
+"upper rakaia river, nr lyell hutt",-43.298851,170.910688,"[{'place_name': 'rakaia river', 'feature_type': 'Stream'}]",lyell,Locality,-41.7970556,172.0470357
+"tarata, inglewood, taranaki",-39.15,174.367,"[{'place_name': 'tarata', 'feature_type': 'Locality'}, {'place_name': 'inglewood', 'feature_type': 'Town'}]",taranaki,Hill,-39.3848064,174.19735050943854
+"limestone valley, west of taiko, sth canterbury",-44.345444,171.023069,"[{'place_name': 'limestone valley', 'feature_type': 'Locality'}]",taiko,Locality,-38.224333,177.250028
+lake mangamahoe,-39.127332,174.125553,"[{'place_name': 'lake mangamahoe', 'feature_type': 'Lake'}]",lake mangamahoe,Lake,-39.12468895,174.12265063272403
+paparoa range: spur south east of mount priestly. ,-42.076243,171.553452,"[{'place_name': 'paparoa range', 'feature_type': 'Range'}]",mount priestly,Hill,-42.0730323,171.5461464
+"tai tapu, otahuna",-43.6592,172.585,"[{'place_name': 'tai tapu', 'feature_type': 'Locality'}]",tai tapu,Locality,-43.6595989,172.5502326
+granite rock,-41.262487,173.28702,"[{'place_name': 'rock', 'feature_type': 'Hill'}]",rock,Hill,-38.912389,174.526
+"mt bruce, masterton, wairarapa",-40.751,175.611,"[{'place_name': 'masterton', 'feature_type': 'Town'}]",masterton,Town,-40.9495524,175.6594413
+"auckland city, western springs park, great north road",-36.867106,174.722543,"[{'place_name': 'auckland city', 'feature_type': 'Local Authority'}]",western springs,Spring,-36.870489,174.7289119
+teddington.,-43.672938,172.652657,"[{'place_name': 'teddington', 'feature_type': 'Locality'}]",teddington,Locality,-43.6657825,172.6599337
+"otaki gorge road, ½  mile west of roaring meg",-40.87347,175.230101,"[{'place_name': 'gorge road', 'feature_type': 'Locality'}]",roaring meg,Stream,-40.8763442,175.1978749
+7 mls north of dunedin,-45.795,170.528,"[{'place_name': 'dunedin', 'feature_type': 'City'}]",dunedin,City,-45.8740984,170.5035755
+"rotorua, blue lake",-38.19573,176.326522,"[{'place_name': 'rotorua', 'feature_type': 'City'}]",blue lake,Lake,-45.475721449999995,168.92803501843431
+bot. gard. ch.ch. [botanic gardens christchurch],-43.531,172.625,"[{'place_name': 'gardens', 'feature_type': 'Locality'}]",christchurch,City,-43.530955,172.6366455
+500m south of halkett reserve,-43.477829,172.301492,"[{'place_name': 'halkett', 'feature_type': 'Locality'}]",halkett,Locality,-43.5008109,172.3224664
+"peel forest homestead, south canterbury",-43.909,171.23,"[{'place_name': 'peel forest', 'feature_type': 'Locality'}]",peel forest,Locality,-43.911219,171.2603756
+rock and pillar ra.,-45.383,170.116,"[{'place_name': 'rock and pillar', 'feature_type': 'Locality'}]",rock and pillar,Locality,-45.4021304,170.1971572
+"lower buller valley on south bank near gorge entrance, nelson.",-41.834,171.662,"[{'place_name': 'south bank', 'feature_type': 'Bank'}]",nelson,City,-41.2710849,173.2836756
+"nelson, little wanganui, ridge west of shag tarn",-41.338733,172.167425,"[{'place_name': 'nelson', 'feature_type': 'City'}, {'place_name': 'little wanganui', 'feature_type': 'Locality'}]",shag tarn,Lake,-41.33655975,172.17636023974524
+"lynn stream hut, mt peel",-43.84587,171.20647,"[{'place_name': 'lynn stream', 'feature_type': 'Stream'}]",lynn stream,Stream,-36.9147783,174.6917167
+"plantation road/ferrimans road intersection, near tinwald",-43.919746,171.601564,"[{'place_name': 'tinwald', 'feature_type': 'Town'}]",tinwald,Town,-43.9201174,171.7233836
+kaiaka,-35.11,173.44,"[{'place_name': 'kaiaka', 'feature_type': 'Locality'}]",kaiaka,Locality,-35.1091031,173.4425714
+"titirangi, clark's bush",-36.939168,174.645073,"[{'place_name': 'titirangi', 'feature_type': 'Suburb'}]",titirangi,Suburb,-38.677528,178.031222
+"christchurch, jollie's bush",-43.586814,172.738743,"[{'place_name': 'christchurch', 'feature_type': 'City'}]",christchurch,City,-43.530955,172.6366455
+sumner beach,-43.564364,172.753556,"[{'place_name': 'sumner', 'feature_type': 'Suburb'}]",sumner,Suburb,-43.5684808,172.7590631
+"mystery burn, murchison mts, fiordland, hanging valley south of black cone",-45.321502,167.589027,"[{'place_name': 'mystery burn', 'feature_type': 'Stream'}, {'place_name': 'murchison', 'feature_type': 'Town'}]",black cone,Hill,-45.30384,167.61874
+lake rotoroa,-41.795151,172.599647,"[{'place_name': 'lake rotoroa', 'feature_type': 'Lake'}]",lake rotoroa,Lake,-37.7983153,175.27451309630658
+"horseshoe lake, christchurch",-43.496619,172.671412,"[{'place_name': 'horseshoe lake', 'feature_type': 'Lake'}]",christchurch,City,-43.530955,172.6366455
+kauri glen,-36.804896,174.734945,"[{'place_name': 'kauri', 'feature_type': 'Locality'}]",kauri,Locality,-36.014639,174.090889
+"levin, ohau river, near gladstone road",-40.654198,175.35373,"[{'place_name': 'levin', 'feature_type': 'Town'}]",gladstone,Suburb,-46.39204,168.3555099
+westhaven [whanganui inlet],-40.574,172.634,"[{'place_name': 'westhaven', 'feature_type': 'Suburb'}]",whanganui inlet,Bay,-38.7356,177.0644603
+"moawhango west v., kaimanawa mountains",-39.297602,175.840551,"[{'place_name': 'moawhango', 'feature_type': 'Locality'}]",kaimanawa mountains,Range,-39.1426547,175.9746851
+"new zealand, kermadec ecological region and district, kermadec islands nature reserve, kermadec islands southern group, cheeseman island",-30.536277,-178.568,"[{'place_name': 'kermadec islands nature reserve', 'feature_type': 'Nature Reserve'}, {'place_name': 'kermadec islands', 'feature_type': 'Island'}]",cheeseman island,Island,-30.53694315,-178.56991505585938
+"lake otakaina access road, rotorua lakes",-38.064226,176.430384,"[{'place_name': 'rotorua', 'feature_type': 'City'}]",rotorua,City,-38.1381493,176.252922
+"north island, south auckland, thames, kaueranga valley road near national park boundary",-37.09108,175.64328,"[{'place_name': 'north island', 'feature_type': 'Island'}, {'place_name': 'auckland', 'feature_type': 'Local Authority'}, {'place_name': 'thames', 'feature_type': 'Town'}, {'place_name': 'national park', 'feature_type': 'Village'}]",boundary,Hill,-41.9054234,173.2515774
+reef point [tauroa point],-35.1858,173.04,"[{'place_name': 'reef point', 'feature_type': 'Point'}]",tauroa point,Point,-35.1669316,173.0673265
+"fiordland np, homer saddle",-44.766666,167.983333,"[{'place_name': 'homer saddle', 'feature_type': 'Pass'}]",homer saddle,Pass,-44.7592669,167.9798267
+"bay of plenty, tauranga ecological district near kaukumoutiti road.",-37.825052,175.995954,"[{'place_name': 'bay of plenty', 'feature_type': 'Bay'}]",tauranga,City,-37.6859006,176.167505
+island bay,-41.341868,174.769989,"[{'place_name': 'island bay', 'feature_type': 'Suburb'}]",island bay,Suburb,-41.3323139,174.7716525
+"te urewera, tarapounamu la2",-38.617458,176.872093,"[{'place_name': 'tarapounamu', 'feature_type': 'Hill'}]",tarapounamu,Hill,-38.690324,176.734321
+"swamp near mouth of haast river, south westland, south island",-43.846,169.029,"[{'place_name': 'haast river', 'feature_type': 'Stream'}]",south island,Island,-43.586562,171.21232939964904
+"mt albert, 11 ruarangi road",-36.891117,174.723041,"[{'place_name': 'ruarangi', 'feature_type': 'Locality'}]",ruarangi,Locality,-35.863667,174.2675
+waitara nursery,-38.994898,174.225216,"[{'place_name': 'waitara', 'feature_type': 'Town'}]",waitara,Town,-39.0028236,174.2364324
+"commissioners bluff [waitahi bluff?], nth of okarito, south westland",-43.146,170.228,"[{'place_name': 'bluff', 'feature_type': 'Town'}, {'place_name': 'waitahi bluff', 'feature_type': 'Cliff'}]",okarito,Locality,-43.223549,170.162652
+mahoenui,-38.5661,174.833,"[{'place_name': 'mahoenui', 'feature_type': 'Locality'}]",mahoenui,Locality,-38.5786853,174.8390043
+"mt. hutt range, scotts stream [tributary of dry creek]",-43.549816,171.539715,"[{'place_name': 'dry creek', 'feature_type': 'Stream'}]",dry creek,Stream,-43.5875315,171.6212223
+"nelson. waiharakeke bay, abel tasman national park.",-40.842241,173.014771,"[{'place_name': 'nelson', 'feature_type': 'City'}, {'place_name': 'waiharakeke bay', 'feature_type': 'Hill'}]",abel tasman national park,National Park,-40.889834699999994,172.93385913716241
+wairau valley,-41.766797,172.973616,"[{'place_name': 'wairau valley', 'feature_type': 'Suburb'}]",wairau valley,Suburb,-41.5635411,173.5314071
+"waiouru, sf 68",-39.53727,175.617676,"[{'place_name': 'waiouru', 'feature_type': 'Town'}]",waiouru,Town,-39.4772125,175.6697752
+waitonga falls track,-39.330563,175.503495,"[{'place_name': 'waitonga falls', 'feature_type': 'Waterfall'}]",waitonga falls,Waterfall,-39.3311705,175.5100984
+"mangawhero track, mt egmont",-39.352278,174.083311,"[{'place_name': 'mangawhero', 'feature_type': 'Locality'}]",mangawhero,Locality,-37.817846,175.819735
+"pohutukawa flat, little barrier island",-36.185967,175.106293,"[{'place_name': 'pohutukawa flat', 'feature_type': 'Flat'}]",pohutukawa flat,Flat,-36.1829277,175.1065039
+"hawke's bay, maharakeke.",-40.227827,176.432096,"[{'place_name': 'maharakeke', 'feature_type': 'Locality'}]",maharakeke,Locality,-40.0235043,176.4484777
+between belfast & harewood.,-43.546392,172.504885,"[{'place_name': 'belfast', 'feature_type': 'Locality'}]",harewood,Suburb,-43.4784203,172.55728
+"north auckland, ahipara gumlands",-35.271046,173.145212,"[{'place_name': 'auckland', 'feature_type': 'City'}]",ahipara,Town,-35.1754824,173.1469345
+"christchurch: cashmere, residence of d. robinson near cracroft tce.",-43.573858,172.62846,"[{'place_name': 'christchurch', 'feature_type': 'City'}, {'place_name': 'cashmere', 'feature_type': 'Suburb'}]",cracroft,Suburb,-43.5778969,172.6141646
+"south canterbury, hunters hills, weaner run, south branch pareora river.",-44.536152,170.873621,"[{'place_name': 'pareora river', 'feature_type': 'Stream'}]",pareora river,Stream,-44.3724536,170.9686585
+[waiohine gorge road],-41.010813,175.394777,"[{'place_name': 'waiohine', 'feature_type': 'Hill'}]",gorge road,Locality,-46.47373,168.70309
+"waimakariri, kaianga [kainga]",-43.407442,172.660337,"[{'place_name': 'kainga', 'feature_type': 'Locality'}]",kainga,Locality,-38.98191,175.921704
+"franz josef glacier, power house track",-43.388759,170.183554,"[{'place_name': 'franz josef glacier', 'feature_type': 'Glacier'}]",franz josef glacier,Glacier,-43.475736850000004,170.19813697640626
+"mt misery, nelson lakes nat. park",-41.9311,172.668,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,-41.2710849,173.2836756
+"urenui, taranaki.",-38.994,174.39,"[{'place_name': 'urenui', 'feature_type': 'Locality'}]",taranaki,Hill,-39.3848064,174.19735050943854
+"titirangi, grendon road",-36.948985,174.651372,"[{'place_name': 'titirangi', 'feature_type': 'Suburb'}]",titirangi,Suburb,-38.677528,178.031222
+"canterbury, burwood",-43.466035,172.690905,"[{'place_name': 'burwood', 'feature_type': 'Suburb'}]",burwood,Suburb,-43.4994151,172.682828
+"north of lammerlaw range, red swamp",-45.590242,169.695573,"[{'place_name': 'lammerlaw range', 'feature_type': 'Range'}]",red swamp,Wetland,-45.587919150000005,169.6952413188549
+"pt. elizabeth, north of greymouth",-42.385,171.222,"[{'place_name': 'greymouth', 'feature_type': 'Town'}]",greymouth,Town,-42.4499469,171.2079875
+"okarito, south westland",-43.22399,170.155961,"[{'place_name': 'okarito', 'feature_type': 'Locality'}]",okarito,Locality,-43.223549,170.162652
+"fendalton, christchurch. (puriri street)",-43.52873,172.591623,"[{'place_name': 'fendalton', 'feature_type': 'Suburb'}, {'place_name': 'christchurch', 'feature_type': 'City'}]",puriri,Locality,-37.2302162,175.6387717
+"nelson, matakitaki valley, mt burn",-42.208569,172.484105,"[{'place_name': 'nelson', 'feature_type': 'City'}]",matakitaki,Historic Site,-36.76334,175.51863
+"okarahia stream, east hundalee hills, marlborough",-42.5414,173.45143,"[{'place_name': 'okarahia stream', 'feature_type': 'Stream'}, {'place_name': 'hundalee', 'feature_type': 'Locality'}]",marlborough,Suburb,-41.47447475,173.8330262577606
+"kokatahi, toaroha divide",-42.916666,171.083333,"[{'place_name': 'kokatahi', 'feature_type': 'Locality'}]",kokatahi,Locality,-42.9020595,171.1425917
+"epsom, landscape road",-36.897615,174.753042,"[{'place_name': 'epsom', 'feature_type': 'Suburb'}]",epsom,Suburb,-36.8858447,174.7734616
+"jacks pass, hanmer springs",-42.487933,172.827666,"[{'place_name': 'jacks pass', 'feature_type': 'Pass'}]",hanmer springs,Town,-42.5217947,172.8302995
+huka falls lodge,-38.650707,176.090042,"[{'place_name': 'huka falls', 'feature_type': 'Waterfall'}]",huka falls,Waterfall,-38.648754,176.0899194
+"north island, auckland ecological region, glen eden, waikumete cemetery, south of urupa, southeast of ""orchard hill""",-36.904338,174.641883,"[{'place_name': 'north island', 'feature_type': 'Island'}, {'place_name': 'auckland', 'feature_type': 'City'}]",glen eden,Suburb,-36.9146254,174.6536504
+"mt cheeseman, craigieburn range",-43.170248,171.634688,"[{'place_name': 'craigieburn range', 'feature_type': 'Range'}]",craigieburn range,Range,-43.162096,171.6503692
+"island bay, banks peninsula, canterbury",-43.89,172.87,"[{'place_name': 'island bay', 'feature_type': 'Suburb'}]",banks peninsula,Peninsula,-43.7233892,172.910213
+"stewart island, horseshoe bay.",-46.904326,168.119965,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",horseshoe bay,Bay,-43.8803977,172.8305947
+"north island, eastern northland ecological region, mokohinau islands nature reserve , stack ""h""",-35.91309,175.093785,"[{'place_name': 'north island', 'feature_type': 'Island'}, {'place_name': 'northland', 'feature_type': 'Suburb'}]",mokohinau islands nature reserve,Nature Reserve,-35.92644345,175.13593308802365
+"otago, murdering beach",-45.762862,170.67353,"[{'place_name': 'murdering beach', 'feature_type': 'Beach'}]",murdering beach,Beach,-45.7610921,170.6694548
+"orari gorge, station creek, geraldine co. south canterbury.",-43.981441,171.180994,"[{'place_name': 'orari', 'feature_type': 'Locality'}, {'place_name': 'station creek', 'feature_type': 'Stream'}]",geraldine,Locality,-44.0921039,171.2425898
+woodhill,-36.745362,174.431215,"[{'place_name': 'woodhill', 'feature_type': 'Suburb'}]",woodhill,Suburb,-35.7270423,174.3072996
+stewart island: mt rakehua.,-46.948325,167.879251,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",stewart island,Island,-46.986719699999995,167.88213801660544
+wakanui beach,-44.027582,171.858956,"[{'place_name': 'wakanui beach', 'feature_type': 'Beach'}]",wakanui beach,Beach,-44.0136054,171.8605892
+"kariotahi [karioitahi], west coast, auckland",-37.321703,174.576289,"[{'place_name': 'kariotahi', 'feature_type': 'Locality'}, {'place_name': 'karioitahi', 'feature_type': 'Locality'}]",auckland,Local Authority,-36.852095,174.7631803
+"inangahua river, 2.5 km s inangahua",-41.866667,171.916667,"[{'place_name': 'inangahua river', 'feature_type': 'Stream'}]",inangahua,Locality,-42.1262681,171.8842481
+"okains bay, banks peninsula.",-43.718445,173.037067,"[{'place_name': 'okains bay', 'feature_type': 'Bay'}]",banks peninsula,Peninsula,-43.7233892,172.910213
+"mount cook national park, birch hill.",-43.802,170.113,"[{'place_name': 'mount cook national park', 'feature_type': 'National Park'}]",birch hill,Locality,-44.3824304,169.5573246
+waimakariri river track,-43.021225,171.592727,"[{'place_name': 'waimakariri river', 'feature_type': 'Stream'}]",waimakariri river,Stream,-43.3594111,172.069178
+"craigieburn, lyndon saddle track",-43.143926,171.723575,"[{'place_name': 'craigieburn', 'feature_type': 'Locality'}]",saddle,Hill,-40.439883,176.106173
+wellsford,-36.292654,174.514799,"[{'place_name': 'wellsford', 'feature_type': 'Locality'}]",wellsford,Locality,-36.2949669,174.5229842
+"auckland, calgarry [calgary] st.",-36.892447,174.740136,"[{'place_name': 'auckland', 'feature_type': 'Local Authority'}]",auckland,Local Authority,-36.852095,174.7631803
+eltham,-39.44296,174.2197,"[{'place_name': 'eltham', 'feature_type': 'Locality'}]",eltham,Locality,-39.4282209,174.3048314
+stewart island:  near harrold's bay,-46.896,168.154,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",stewart island,Island,-46.986719699999995,167.88213801660544
+lake papaitonga,-40.6397,175.228,"[{'place_name': 'lake papaitonga', 'feature_type': 'Lake'}]",lake papaitonga,Lake,-40.643439650000005,175.22520822816114
+"above woodside g., marlborough",-41.93258,174.06334,"[{'place_name': 'woodside', 'feature_type': 'Locality'}]",marlborough,Suburb,-41.47447475,173.8330262577606
+"levin, lake horowhenua",-40.607586,175.268274,"[{'place_name': 'levin', 'feature_type': 'Town'}]",lake horowhenua,Lake,-40.6075737,175.25305806883537
+"clark flat, peel forest, south canterbury",-43.895238,171.266808,"[{'place_name': 'peel forest', 'feature_type': 'Locality'}]",peel forest,Locality,-43.911219,171.2603756
+otira valley,-42.8963,171.539,"[{'place_name': 'otira', 'feature_type': 'Locality'}]",otira,Locality,-42.8293483,171.5613766
+"pupu springs [waikoropupu springs], takaka, nelson",-40.847689,172.769203,"[{'place_name': 'pupu springs', 'feature_type': 'Spring'}, {'place_name': 'waikoropupu springs', 'feature_type': 'Spring'}]",nelson,City,-41.2710849,173.2836756
+moanui road,-38.390126,177.459276,"[{'place_name': 'moanui', 'feature_type': 'Hill'}]",moanui,Hill,-38.360944,177.394361
+"whana huia [whanahuia] ra., ruahine ra.",-39.903109,176.002741,"[{'place_name': 'huia', 'feature_type': 'Locality'}]",ruahine,Hill,-36.332871,175.518432
+"clarks bluff [clarke bluff], haast rd",-43.975469,169.423222,"[{'place_name': 'bluff', 'feature_type': 'Town'}, {'place_name': 'clarke bluff', 'feature_type': 'Cliff'}]",haast,Town,-43.8806582,169.0420322
+"tararua range, mt matthews",-41.351956,175.014152,"[{'place_name': 'tararua range', 'feature_type': 'Range'}]",tararua range,Range,-40.6271223,175.4567197
+"southsouthe. of razorback, oterei taipos, east wairarapa",-41.402758,175.631392,"[{'place_name': 'razorback', 'feature_type': 'Ridge'}]",razorback,Ridge,-41.3851455,175.6379089
+"wellington, ruapehu, near haunted whare.",-39.205656,175.535554,"[{'place_name': 'wellington', 'feature_type': 'City'}]",wellington,City,-41.2887953,174.7772114
+"hunua ranges, cossey's creek",-37.064534,175.093239,"[{'place_name': 'hunua ranges', 'feature_type': 'Range'}]",hunua ranges,Range,-37.09362405,175.1800327655045
+"wellington, red rocks stream",-41.39806,174.913658,"[{'place_name': 'wellington', 'feature_type': 'City'}]",red rocks,Rock,-41.357621699999996,174.7270522856748
+"coromandel state forest, kauaeranga valley",-37.132951,175.615167,"[{'place_name': 'coromandel', 'feature_type': 'Locality'}]",kauaeranga,Locality,-35.623354,174.05873
+pukekohe research centre,-37.2,174.9,"[{'place_name': 'pukekohe', 'feature_type': 'Hill'}]",pukekohe,Hill,-37.2006384,174.9036875
+"northz., nelson; cobb valley track, c. 100m e of bridge over mytton's creek.",-41.108741,172.589412,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,-41.2710849,173.2836756
+"mount aspiring national park, lower young valley, (n. side)",-44.176239,169.146923,"[{'place_name': 'mount aspiring national park', 'feature_type': 'National Park'}]",mount aspiring national park,National Park,-44.34990745,168.7148481596373
+"in clearing west side, riccarton bush, riccarton",-43.52873,172.591623,"[{'place_name': 'riccarton bush', 'feature_type': 'Bush'}]",riccarton,Suburb,-43.5299309,172.598559
+"wairoa, hawkes bay",-39.041,177.409,"[{'place_name': 'wairoa', 'feature_type': 'Hill'}]",wairoa,Hill,-37.7398071,176.0826134
+"ruahine forest park, near rangiwahia hut",-39.883333,176.016666,"[{'place_name': 'ruahine forest park', 'feature_type': 'Conservation Park'}]",rangiwahia,Locality,-39.8991632,175.902093
+"old man range at hyde rock ( s of cromwell, sw of alexandra).",-45.388278,169.197667,"[{'place_name': 'old man range', 'feature_type': 'Range'}, {'place_name': 'hyde rock', 'feature_type': 'Hill'}, {'place_name': 'cromwell', 'feature_type': 'Town'}]",alexandra,Locality,-45.2535683,169.3870836
+"auckland, titirangi",-36.94,174.65,"[{'place_name': 'auckland', 'feature_type': 'Local Authority'}]",titirangi,Locality,-38.677528,178.031222
+"great barrier island, hauraki gulf, auckland, ",-36.179,175.41,"[{'place_name': 'hauraki gulf', 'feature_type': 'Bay'}]",auckland,City,-36.852095,174.7631803
+"north east of dunedin, near waitati, long beach",-45.815968,170.428134,"[{'place_name': 'dunedin', 'feature_type': 'City'}, {'place_name': 'waitati', 'feature_type': 'Locality'}]",long beach,Locality,-35.259078349999996,174.13290191521935
+"paihia, paihia-opua walkway",-35.291654,174.197625,"[{'place_name': 'paihia', 'feature_type': 'Town'}, {'place_name': 'paihia', 'feature_type': 'Town'}]",opua,Locality,-35.3139575,174.1199961
+"fiordland national park, milford sound, darran mountains, gertrude saddle track, top of saddle.",-44.77,168.003333,"[{'place_name': 'fiordland national park', 'feature_type': 'National Park'}, {'place_name': 'milford sound', 'feature_type': 'Bay'}, {'place_name': 'darran mountains', 'feature_type': 'Range'}, {'place_name': 'gertrude saddle', 'feature_type': 'Pass'}]",saddle,Hill,-40.439883,176.106173
+"westland national park, between mount fox trig and ""4391'""",-43.499034,169.99458,"[{'place_name': 'westland national park', 'feature_type': 'National Park'}]",mount fox,Hill,-43.4954278,170.0012216
+"palmerston north, nr gasworks",-40.340793,175.646494,"[{'place_name': 'palmerston north', 'feature_type': 'City'}]",palmerston north,City,-40.356317,175.6112388
+"mt thomas forest, bald hills stream, nth canterbury",-43.194095,172.266721,"[{'place_name': 'bald hills stream', 'feature_type': 'Stream'}]",bald hills stream,Stream,-43.1918115,172.2703237
+"waitakere ranges, karekare, lone kauri road",-36.970336,174.512719,"[{'place_name': 'karekare', 'feature_type': 'Locality'}]",kauri,Locality,-36.014639,174.090889
+"westland, lewis pass, five mile creek, waterfall track.",-42.36123,172.253391,"[{'place_name': 'lewis pass', 'feature_type': 'Pass'}]",five mile creek,Stream,-42.3626409,172.2509916
+"canterbury, ellesmere county, 5 miles se of bankside, killinchy.",-43.742654,172.192922,"[{'place_name': 'ellesmere', 'feature_type': 'Locality'}, {'place_name': 'bankside', 'feature_type': 'Locality'}]",killinchy,Locality,-43.727832,172.2410345
+"piha, kitekite track",-36.955088,174.485317,"[{'place_name': 'piha', 'feature_type': 'Locality'}]",piha,Locality,-36.9556043,174.4694742
+"nelson lakes national park, mount robert",-41.832172,172.811164,"[{'place_name': 'nelson lakes national park', 'feature_type': 'National Park'}]",mount robert,Hill,-41.8323509,172.8110783
+originally from roadside outside old homestead at glenroy,-43.528778,171.828142,"[{'place_name': 'glenroy', 'feature_type': 'Locality'}]",glenroy,Locality,-43.5218662,171.833725
+botanical hill,-41.278426,173.286611,"[{'place_name': 'botanical hill', 'feature_type': 'Hill'}]",botanical hill,Hill,-41.2728159,173.299576
+"hawkes bay, haumoana",-39.6,176.95,"[{'place_name': 'haumoana', 'feature_type': 'Town'}]",haumoana,Town,-39.6072711,176.9457704
+"westland, grey county, inchbonnie.",-42.726716,171.449118,"[{'place_name': 'inchbonnie', 'feature_type': 'Locality'}]",inchbonnie,Locality,-42.7273639,171.4723067
+"coronation park, huntsbury, christchurch",-43.572183,172.64667,"[{'place_name': 'huntsbury', 'feature_type': 'Suburb'}]",christchurch,City,-43.530955,172.6366455
+orari gorge,-43.9384,171.193755,"[{'place_name': 'orari', 'feature_type': 'Locality'}]",orari,Locality,-43.9760835,171.2233656
+16 km west of hawera (okaiawa).,-39.525,174.203,"[{'place_name': 'hawera', 'feature_type': 'Locality'}]",okaiawa,Locality,-39.5266035,174.201558
+wellington; sar street,-41.265119,174.778493,"[{'place_name': 'wellington', 'feature_type': 'City'}]",wellington,City,-41.2887953,174.7772114
+lees valley,-43.184164,172.138773,"[{'place_name': 'lees valley', 'feature_type': 'Locality'}]",lees valley,Locality,-43.147778,172.1735287
+terrace end p.n. [palmerston north],-40.349,175.635,"[{'place_name': 'terrace end', 'feature_type': 'Suburb'}]",palmerston north,City,-40.356317,175.6112388
+"southland, eglington valley, livingston range, above knobs flat.",-44.979949,168.014689,"[{'place_name': 'knobs flat', 'feature_type': 'Flat'}]",knobs flat,Flat,-44.966852200000005,168.01077753302062
+"l.rotokare, east of eltham",-39.45,174.409,"[{'place_name': 'eltham', 'feature_type': 'Locality'}]",eltham,Locality,-39.4282209,174.3048314
+mcqueens valley,-43.683056,172.666111,"[{'place_name': 'mcqueens valley', 'feature_type': 'Valley'}]",mcqueens valley,Valley,-43.7179502,172.6391521
+"the neck, glory cove track",-46.969083,168.175806,"[{'place_name': 'the neck', 'feature_type': 'Peninsula'}]",glory cove,Bay,-46.9688582,168.1653149
+"victoria forest park, duffy creek route",-42.291944,172.057861,"[{'place_name': 'victoria forest park', 'feature_type': 'Conservation Park'}]",duffy creek,Stream,-42.2777272,172.0580443
+bluff hill,-46.604,168.338,"[{'place_name': 'bluff hill', 'feature_type': 'Suburb'}]",bluff hill,Suburb,-39.4788919,176.9172861
+"amberley golf course, nth canterbury",-43.15576,172.78735,"[{'place_name': 'amberley', 'feature_type': 'Locality'}]",amberley,Locality,-43.1512956,172.7329869
+"motueka, victoria st, j.r. talbot",-41.131944,172.991944,"[{'place_name': 'motueka', 'feature_type': 'Town'}]",motueka,Town,-41.112493,173.0094875
+pukenui,-34.818593,173.105841,"[{'place_name': 'pukenui', 'feature_type': 'Island'}]",pukenui,Island,-41.3812832,175.4255659
+"heathcote, port hills, christchurch",-43.592074,172.702649,"[{'place_name': 'christchurch', 'feature_type': 'City'}]",christchurch,City,-43.530955,172.6366455
+"near lake forsyth, rocky bank beside road to little river, canterbury",-43.799164,172.73892,"[{'place_name': 'forsyth', 'feature_type': 'Locality'}]",little river,Locality,-46.8708613,168.1076265
+"blockhouse bay, boundary road",-36.919951,174.7123,"[{'place_name': 'blockhouse bay', 'feature_type': 'Suburb'}]",boundary,Hill,-41.9054234,173.2515774
+"karamea, oparara estuary",-41.204626,172.108448,"[{'place_name': 'karamea', 'feature_type': 'Locality'}]",karamea,Locality,-39.85821275,176.9884604633608
+"akaroa, tane reserve",-43.810152,173.028492,"[{'place_name': 'akaroa', 'feature_type': 'Locality'}]",tane,Locality,-40.5743913,175.8502579
+"karikari peninsula, whangatupere bay",-34.834944,173.438667,"[{'place_name': 'karikari peninsula', 'feature_type': 'Peninsula'}]",whangatupere bay,Bay,-34.8372473,173.4566425
+auckland,-36.837625,174.761838,"[{'place_name': 'auckland', 'feature_type': 'Local Authority'}]",auckland,Local Authority,-36.852095,174.7631803
+allandale,-43.641285,172.650073,"[{'place_name': 'allandale', 'feature_type': 'Locality'}]",allandale,Locality,-43.6396613,172.6484882
+"wellington city, central park",-41.27856,174.777125,"[{'place_name': 'wellington city', 'feature_type': 'Local Authority'}]",central,Hill,-41.084803,175.968579
+"waioeka gorge, 9.1 miles south of ministry of works depot",-38.288,177.377,"[{'place_name': 'waioeka', 'feature_type': 'Locality'}]",waioeka,Locality,-38.0549003,177.2886944
+"haast pass, brewster hut track",-44.083192,169.394037,"[{'place_name': 'haast pass', 'feature_type': 'Pass'}]",haast pass,Pass,-44.1072916,169.3547989
+"eastbourne, days bay",-41.28296,174.913537,"[{'place_name': 'eastbourne', 'feature_type': 'Suburb'}]",days bay,Suburb,-41.2801704,174.9019409
+"stewart island, codfish island, sealers bay, base camp.",-46.766235,167.633475,"[{'place_name': 'stewart island', 'feature_type': 'Island'}, {'place_name': 'codfish island', 'feature_type': 'Island'}]",sealers bay,Bay,-46.0399322,166.5326466
+"abandoned farm near beginning of little wanganui valley road, nelson",-41.276471,173.279045,"[{'place_name': 'little wanganui', 'feature_type': 'Locality'}]",nelson,City,-41.2710849,173.2836756
+"wanganui, kaitoke prison, harakeke pine forest",-39.994107,175.095188,"[{'place_name': 'wanganui', 'feature_type': 'City'}, {'place_name': 'kaitoke', 'feature_type': 'Trig Station'}]",harakeke,Locality,-35.154805499999995,174.1326094037682
+"tararuas, between mitre flats and blue ranges",-40.830544,175.485018,"[{'place_name': 'mitre flats', 'feature_type': 'Flat'}]",mitre flats,Flat,-40.8295406,175.4783089
+"whangarei heads, peach cove",-35.854964,174.565054,"[{'place_name': 'peach cove', 'feature_type': 'Bay'}]",peach cove,Bay,-35.8567083,174.5644261
+"peel forest park; clarke flat, sth canterbury",-43.899341,171.261102,"[{'place_name': 'peel forest', 'feature_type': 'Locality'}]",clarke flat,Flat,-43.8940742,171.2703821
+"lower awatere valley, at black birch stream bridge",-41.734714,173.877621,"[{'place_name': 'awatere', 'feature_type': 'Locality'}]",black birch stream,Stream,-43.7622543,170.1250573
+"3 kings ra, kaimanawa mts.",-39.430036,175.877195,"[{'place_name': 'kaimanawa', 'feature_type': 'Hill'}]",kaimanawa,Hill,-38.5854719,176.2358105
+"banks peninsula: flea bay, forks ne gully akaroa",-43.856964,172.989998,"[{'place_name': 'banks peninsula', 'feature_type': 'Peninsula'}, {'place_name': 'flea bay', 'feature_type': 'Bay'}]",akaroa,Town,-43.824937649999995,173.02096375934738
+"south marlbrough, molesworth station, lake mcrae, goat valley stream",-42.176019,173.332867,"[{'place_name': 'lake mcrae', 'feature_type': 'Lake'}]",goat valley stream,Stream,-42.1686201,173.326621
+"cheltenham bay, devonport, auckland",-36.822476,174.800242,"[{'place_name': 'cheltenham', 'feature_type': 'Suburb'}, {'place_name': 'devonport', 'feature_type': 'Suburb'}]",auckland,City,-36.852095,174.7631803
+"wairarapa, castlepoint, whakataki river- coast",-40.866121,176.233331,"[{'place_name': 'castlepoint', 'feature_type': 'Point'}]",whakataki,Locality,-40.851639,176.145722
