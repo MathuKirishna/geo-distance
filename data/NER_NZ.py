@@ -1,5 +1,4 @@
 import spacy
-from spacy_lookup import Entity
 import pandas as pd
 
 # Load a blank spaCy model or an existing one

@@ -1,5 +1,4 @@
 import spacy
-from spacy_lookup import Entity
 import pandas as pd
 
 # Load a blank spaCy model or an existing one
@@ -23,7 +22,7 @@ entity_ruler.add_patterns(patterns)
 nlp.add_pipe(entity_ruler)
 
 # # Test the model
-doc = nlp('The Selwyn River flows through North Canterbury.')
+doc = nlp('1 mile S. of Okari River, between Charleston and Westport, Westland')
 for ent in doc.ents:
     print(ent.text, ent.label_)
 

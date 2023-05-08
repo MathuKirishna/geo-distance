@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv('data/BioGeoRef cleaned data all.csv')
 
 # Select 200 random rows from the dataset
-df_random = df.sample(n=200, random_state=42)
+df_random = df.sample(n=300, random_state=42)
 
 # Write the random subset to a csv file
-df_random.to_csv('data/sample_200.csv', index=False)
+df_random.to_csv('data/sample_300.csv', index=False)
