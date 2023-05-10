@@ -2,7 +2,7 @@ from geopy.geocoders import Nominatim
 import pandas as pd
 import math
 
-df = pd.read_csv("../data/geo_coded_feature_extracted_200.csv", header=0, sep=",")
+df = pd.read_csv("../data/concat/geo_coded_feature_extracted_all.csv", header=0, sep=",")
 
 print(df.columns)
 
@@ -35,5 +35,5 @@ for index, place_name in enumerate(target_latitude):
 
 print(df.head())
 
-df.to_csv('../data/distance_added_feature_extracted_200.csv', header=True, sep=',', index=False)
+df.to_csv('../data/distance_added_feature_extracted_1500.csv', header=True, sep=',', index=False)
     

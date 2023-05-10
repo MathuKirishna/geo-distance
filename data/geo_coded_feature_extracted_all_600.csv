@@ -1,0 +1,582 @@
+"[lake] coleridge, mossburn swamp",-43.221407,171.479663,"[{'place_name': 'mossburn', 'feature_type': 'Locality'}]",mossburn,Locality,0.0,0.0
+[lake] waikaremoana,-38.766111,177.083056,"[{'place_name': 'waikaremoana', 'feature_type': 'Locality'}]",waikaremoana,Locality,0.0,0.0
+"[levin], ohau river, ohau track",-40.67013,175.378639,"[{'place_name': 'levin', 'feature_type': 'Town'}]",levin,Town,0.0,0.0
+[lincoln] glasshouse,-43.639576,172.477981,"[{'place_name': 'lincoln', 'feature_type': 'Town'}]",lincoln,Town,0.0,0.0
+"[lower avon river, near bower hotel, christchurch]",-43.5066,172.709,"[{'place_name': 'avon river', 'feature_type': 'Stream'}]",christchurch,City,0.0,0.0
+"[marlborough], waiau, mount terako",-42.557294,172.999939,"[{'place_name': 'marlborough', 'feature_type': 'Suburb'}, {'place_name': 'waiau', 'feature_type': 'Locality'}]",mount terako,Hill,0.0,0.0
+"[mid] canterbury, mount hutt",-43.529194,171.613018,"[{'place_name': 'mount hutt', 'feature_type': 'Locality'}]",mount hutt,Locality,0.0,0.0
+"[motukarara, department of conservation nursery]",-43.727618,172.583561,"[{'place_name': 'motukarara', 'feature_type': 'Locality'}]",motukarara,Locality,0.0,0.0
+"[mount aspiring national park] young range, makarora valley",-44.133134,169.425457,"[{'place_name': 'mount aspiring national park', 'feature_type': 'National Park'}, {'place_name': 'young range', 'feature_type': 'Range'}]",makarora,Locality,0.0,0.0
+"[mount aspiring national park], upper dart valley",-44.528707,168.421922,"[{'place_name': 'mount aspiring national park', 'feature_type': 'National Park'}]",mount aspiring national park,National Park,0.0,0.0
+"[mount cook national park], black birch stream",-43.743,170.092,"[{'place_name': 'mount cook national park', 'feature_type': 'National Park'}]",black birch stream,Stream,0.0,0.0
+"[mount cook national park], black birch stream - on bluff",-43.743,170.092,"[{'place_name': 'mount cook national park', 'feature_type': 'National Park'}, {'place_name': 'black birch stream', 'feature_type': 'Stream'}]",bluff,Town,0.0,0.0
+"[mount cook national park], governor's bush",-43.739,170.089,"[{'place_name': 'mount cook national park', 'feature_type': 'National Park'}]",mount cook national park,National Park,0.0,0.0
+"[mount cook national park], governor's bush, sealy range",-43.738,170.094,"[{'place_name': 'mount cook national park', 'feature_type': 'National Park'}]",sealy range,Range,0.0,0.0
+"[mount cook national park], murchison river",-43.617885,170.298495,"[{'place_name': 'mount cook national park', 'feature_type': 'National Park'}]",murchison river,Stream,0.0,0.0
+"[mount cook national park], near kea point",-43.706,170.076,"[{'place_name': 'mount cook national park', 'feature_type': 'National Park'}]",kea point,Point,0.0,0.0
+"[mount cook national park], near kea point",-43.703595,170.075352,"[{'place_name': 'mount cook national park', 'feature_type': 'National Park'}]",kea point,Point,0.0,0.0
+"[mount cook national park], wakefield track",-43.702,170.15,"[{'place_name': 'mount cook national park', 'feature_type': 'National Park'}]",wakefield,Locality,0.0,0.0
+"[mount] egmont, stony river",-39.311512,173.927176,"[{'place_name': 'stony river', 'feature_type': 'Stream'}]",stony river,Stream,0.0,0.0
+[mount] titiraupenga,-38.5,175.683056,"[{'place_name': 'titiraupenga', 'feature_type': 'Hill'}]",titiraupenga,Hill,0.0,0.0
+"[mt wellington near auckland, nz.]",-36.89398,174.835765,"[{'place_name': 'wellington', 'feature_type': 'City'}]",auckland,Local Authority,0.0,0.0
+"[mt wellington, near auckland]",-36.89398,174.835765,"[{'place_name': 'wellington', 'feature_type': 'City'}]",auckland,City,0.0,0.0
+"[mt. arthur], nelson",-41.218,172.682,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+"[mt. duppa], nelson.",-41.219,173.498,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+"[n. branch] wangapeka river, nelson.",-41.41403,172.43521,"[{'place_name': 'wangapeka river', 'feature_type': 'Stream'}]",nelson,City,0.0,0.0
+"[n. canty., rakaia huts]",-43.8857,172.239,"[{'place_name': 'rakaia huts', 'feature_type': 'Locality'}]",rakaia huts,Locality,0.0,0.0
+"[near hawdon shelter, arthur's pass national park]",-42.98823,171.750137,"[{'place_name': ""arthur's pass national park"", 'feature_type': 'National Park'}]",arthur's pass national park,National Park,0.0,0.0
+"[near kaikohe], omahuta forest",-35.163,173.637,"[{'place_name': 'kaikohe', 'feature_type': 'Town'}]",omahuta forest,Conservation Park,0.0,0.0
+"[near linkwood, white rock road]",-41.395839,175.50326,"[{'place_name': 'white rock', 'feature_type': 'Island'}]",white rock,Island,0.0,0.0
+[near south branch temple stream],-44.111804,169.742503,"[{'place_name': 'temple stream', 'feature_type': 'Stream'}]",temple stream,Stream,0.0,0.0
+[near waiouru],-39.41379,175.69547,"[{'place_name': 'waiouru', 'feature_type': 'Town'}]",waiouru,Town,0.0,0.0
+"[near wilsons lead road turnoff, cape foulwind area]",-41.763667,171.472808,"[{'place_name': 'cape foulwind', 'feature_type': 'Point'}]",cape foulwind,Point,0.0,0.0
+"[nelson lakes national park], lake rotoiti, nelson",-41.808,172.838,"[{'place_name': 'nelson lakes national park', 'feature_type': 'National Park'}, {'place_name': 'lake rotoiti', 'feature_type': 'Locality'}]",nelson,City,0.0,0.0
+"[nelson lakes national park], lake rotoiti, nelson",-41.82,172.851,"[{'place_name': 'nelson lakes national park', 'feature_type': 'National Park'}, {'place_name': 'lake rotoiti', 'feature_type': 'Locality'}]",nelson,City,0.0,0.0
+"[nelson, mt robert], near robert lodge.",-41.836854,172.807427,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+[nelson],-41.296543,173.238929,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+[new] track round lake waikare-iti [waikareiti]. waikaremoana. north island.,-38.703,177.16,"[{'place_name': 'round lake', 'feature_type': 'Lake'}, {'place_name': 'waikare', 'feature_type': 'Locality'}, {'place_name': 'waikaremoana', 'feature_type': 'Locality'}]",north island,Island,0.0,0.0
+"[north canterbury], fowlers pass.",-42.313851,172.720983,"[{'place_name': 'fowlers pass', 'feature_type': 'Pass'}]",fowlers pass,Pass,0.0,0.0
+"[north of ashburton], east side highway 1, 1.5 miles (2.4 km) north of stanley road",-43.900796,171.755128,"[{'place_name': 'ashburton', 'feature_type': 'Town'}]",ashburton,Town,0.0,0.0
+"[north west nelson], gouland downs",-40.900362,172.314006,"[{'place_name': 'nelson', 'feature_type': 'City'}]",gouland downs,Flat,0.0,0.0
+"[northland], puketi forest",-35.2185,173.787,"[{'place_name': 'northland', 'feature_type': 'Area'}]",puketi forest,Conservation Park,0.0,0.0
+"[northwest nelson, gouland downs,] mt goul.",-40.934869,172.370848,"[{'place_name': 'nelson', 'feature_type': 'City'}]",gouland downs,Flat,0.0,0.0
+"[northwest nelson], able tasman national park, awaroa inlet (road end)",-40.864555,173.000141,"[{'place_name': 'nelson', 'feature_type': 'City'}, {'place_name': 'tasman', 'feature_type': 'Locality'}, {'place_name': 'national park', 'feature_type': 'Village'}, {'place_name': 'awaroa inlet', 'feature_type': 'Bay'}]",end,Hill,0.0,0.0
+"[northwest nelson], cobb dam, left side",-41.107227,172.678706,"[{'place_name': 'nelson', 'feature_type': 'City'}]",cobb dam,Facility,0.0,0.0
+"[northwest nelson], cobb valley",-41.115689,172.523885,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+"[northwest nelson], gouland downs",-40.897,172.317,"[{'place_name': 'nelson', 'feature_type': 'City'}]",gouland downs,Flat,0.0,0.0
+"[northwest nelson], gouland downs",-40.889511,172.311958,"[{'place_name': 'nelson', 'feature_type': 'City'}]",gouland downs,Flat,0.0,0.0
+"[northwest nelson], gouland downs.",-40.900362,172.314006,"[{'place_name': 'nelson', 'feature_type': 'City'}]",gouland downs,Flat,0.0,0.0
+"[northwest nelson], gouland downs.",-40.889,172.33,"[{'place_name': 'nelson', 'feature_type': 'City'}]",gouland downs,Flat,0.0,0.0
+"[northwest nelson], gouland downs.",-40.900048,172.357408,"[{'place_name': 'nelson', 'feature_type': 'City'}]",gouland downs,Flat,0.0,0.0
+"[northwest nelson], gouland downs.",-40.89,172.333,"[{'place_name': 'nelson', 'feature_type': 'City'}]",gouland downs,Flat,0.0,0.0
+"[northwest nelson], island, west whanganui inlet",-40.623,172.512,"[{'place_name': 'nelson', 'feature_type': 'City'}]",whanganui inlet,Bay,0.0,0.0
+"[northwest nelson], kaihoke [kaihoka] coast.",-40.544124,172.579526,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+"[northwest nelson], karamea, oparara quarry",-41.209896,172.155967,"[{'place_name': 'nelson', 'feature_type': 'City'}]",karamea,Locality,0.0,0.0
+"[northwest nelson], lake sylvester",-41.111749,172.632313,"[{'place_name': 'nelson', 'feature_type': 'City'}]",lake sylvester,Lake,0.0,0.0
+"[northwest nelson], lake sylvester",-41.104,172.632,"[{'place_name': 'nelson', 'feature_type': 'City'}]",lake sylvester,Lake,0.0,0.0
+"[northwest nelson], lake sylvester",-41.111856,172.621429,"[{'place_name': 'nelson', 'feature_type': 'City'}]",lake sylvester,Lake,0.0,0.0
+"[northwest nelson], mt. goul",-40.932841,172.376289,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+"[northwest nelson], tableland",-41.206166,172.642447,"[{'place_name': 'nelson', 'feature_type': 'City'}]",tableland,Hill,0.0,0.0
+"[northwest nelson], westhaven inlet",-40.621,172.542,"[{'place_name': 'nelson', 'feature_type': 'City'}]",westhaven,Bay,0.0,0.0
+"[nr little river, bank's peninsula]",-43.775122,172.780681,"[{'place_name': 'little river', 'feature_type': 'Stream'}]",peninsula,Hill,0.0,0.0
+[nr. spencerville park],-43.434548,172.69724,"[{'place_name': 'spencerville', 'feature_type': 'Locality'}]",spencerville,Locality,0.0,0.0
+"[orig. wildlife sanctuary, south east of leeston, canterbury]",-43.795,172.345,"[{'place_name': 'leeston', 'feature_type': 'Locality'}]",leeston,Locality,0.0,0.0
+"[palmerston north, dsir, grasslands division, greenhouse]",-40.3805,175.6138,"[{'place_name': 'palmerston north', 'feature_type': 'City'}]",palmerston north,City,0.0,0.0
+"[palmerston north, dsir, grasslands division]",-40.3805,175.6138,"[{'place_name': 'palmerston north', 'feature_type': 'City'}]",palmerston north,City,0.0,0.0
+"[palmerston north, dsir], grasslands [division]",-40.3805,175.6138,"[{'place_name': 'palmerston north', 'feature_type': 'City'}]",palmerston north,City,0.0,0.0
+"[palmerston north, dsir], grasslands [division] ghse [glasshouse]",-40.3805,175.6138,"[{'place_name': 'palmerston north', 'feature_type': 'City'}]",palmerston north,City,0.0,0.0
+"[paparoa range, buckland peaks], mount bucklands",-41.917783,171.553469,"[{'place_name': 'paparoa range', 'feature_type': 'Range'}]",buckland peaks,Hill,0.0,0.0
+"[pinehaven, taita, wellington]",-41.159,175.01,"[{'place_name': 'pinehaven', 'feature_type': 'Suburb'}, {'place_name': 'taita', 'feature_type': 'Hill'}]",wellington,City,0.0,0.0
+"[puniho track], mt. egmont.",-39.269,173.998,"[{'place_name': 'puniho', 'feature_type': 'Locality'}]",puniho,Locality,0.0,0.0
+"[rag saddle, between kekerangu r. and the inner clarence basin, marlborough]",-41.9548,173.947,"[{'place_name': 'rag saddle', 'feature_type': 'Pass'}, {'place_name': 'kekerangu', 'feature_type': 'Locality'}, {'place_name': 'clarence', 'feature_type': 'Locality'}]",marlborough,Suburb,0.0,0.0
+"[rimutaka forest park], waiorongomai",-41.256122,175.106768,"[{'place_name': 'rimutaka forest park', 'feature_type': 'Conservation Park'}]",waiorongomai,Locality,0.0,0.0
+"[rimutaka range], rimutaka road, wairarapa side of saddle.",-41.113018,175.238875,"[{'place_name': 'rimutaka range', 'feature_type': 'Range'}, {'place_name': 'rimutaka', 'feature_type': 'Hill'}]",saddle,Hill,0.0,0.0
+[riverhead?] outside plot14? amno / plots,-36.748521,174.551369,"[{'place_name': 'riverhead', 'feature_type': 'Locality'}]",riverhead,Locality,0.0,0.0
+"[riverhead?], agathus forest, outside plots",-36.748521,174.551369,"[{'place_name': 'riverhead', 'feature_type': 'Locality'}]",riverhead,Locality,0.0,0.0
+"[ruahine range], tiraha basin (pohangina - tiraha)",-39.888537,176.119434,"[{'place_name': 'ruahine range', 'feature_type': 'Range'}, {'place_name': 'tiraha', 'feature_type': 'Hill'}, {'place_name': 'pohangina', 'feature_type': 'Village'}]",tiraha,Hill,0.0,0.0
+"[ruahine-cook district],  mt. matthew's table, [rimutakas]",-41.371054,174.912872,"[{'place_name': 'ruahine', 'feature_type': 'Locality'}]",ruahine,Locality,0.0,0.0
+"[s. canty., ashburton, south riverbank]",-43.9141,171.736,"[{'place_name': 'ashburton', 'feature_type': 'Town'}]",ashburton,Town,0.0,0.0
+[s.w. ruahines]: rangiwahia track,-39.896,176.01,"[{'place_name': 'rangiwahia', 'feature_type': 'Locality'}]",rangiwahia,Locality,0.0,0.0
+"[south canterbury], godley valley,  head of lake tekapo",-43.763691,170.515676,"[{'place_name': 'godley valley', 'feature_type': 'Valley'}]",lake tekapo,Lake,0.0,0.0
+"[south island] marlborough sounds, d'urville island, kupe bay",-40.890527,173.798388,"[{'place_name': 'south island', 'feature_type': 'Island'}, {'place_name': 'marlborough', 'feature_type': 'Suburb'}]",kupe bay,Bay,0.0,0.0
+"[south of westport, near addisons road, south of junction of state highways 6 & 67]",-41.828634,171.558458,"[{'place_name': 'westport', 'feature_type': 'Town'}]",westport,Town,0.0,0.0
+"[south] auckland, whakatane",-37.951,177.007,"[{'place_name': 'auckland', 'feature_type': 'City'}]",auckland,City,0.0,0.0
+"[southern wairarapa], aorangi range, west of mt surf.",-41.47259,175.275069,"[{'place_name': 'aorangi range', 'feature_type': 'Range'}]",surf,Hill,0.0,0.0
+"[southland], mid dome",-45.585277,168.537342,"[{'place_name': 'mid dome', 'feature_type': 'Hill'}]",mid dome,Hill,0.0,0.0
+[stewart island] kopeka,-47.09655,167.82607,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",stewart island,Island,0.0,0.0
+[stewart island] l. [lower] doughboy,-47.048669,167.740825,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",stewart island,Island,0.0,0.0
+[stewart island] l. [lower] doughboy r.,-47.048669,167.740825,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",stewart island,Island,0.0,0.0
+[stewart island] lit [little] mt ang [anglem],-46.771612,167.941271,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",stewart island,Island,0.0,0.0
+[stewart island] litt. [little] ang [anglem] trib [tributary] of f.w. [freshwater],-46.796257,167.906242,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",stewart island,Island,0.0,0.0
+[stewart island] little anglem branch of freshwater,-46.805236,167.905427,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",stewart island,Island,0.0,0.0
+"[stewart island], hill north of smith's lookout.",-47.226213,167.532943,"[{'place_name': 'stewart island', 'feature_type': 'Island'}]",lookout,Hill,0.0,0.0
+"[tararua mountains], smith's [smith] creek",-41.058,175.272,"[{'place_name': 'tararua', 'feature_type': 'Hill'}]",tararua,Hill,0.0,0.0
+[tararua range] above dobsons hut on the track to the marchant ridge at junction of forest and scrub,-41.046071,175.258734,"[{'place_name': 'tararua range', 'feature_type': 'Range'}]",marchant ridge,Ridge,0.0,0.0
+"[tararua range], field hut",-40.907233,175.256286,"[{'place_name': 'tararua range', 'feature_type': 'Range'}]",field,Hill,0.0,0.0
+"[tararua range], near mt holdsworth (n)",-40.88415,175.421081,"[{'place_name': 'tararua range', 'feature_type': 'Range'}]",tararua range,Range,0.0,0.0
+"[taylorvill - ]blackball rd., grey valley, westland",-42.426212,171.355673,"[{'place_name': 'blackball', 'feature_type': 'Locality'}]",blackball,Locality,0.0,0.0
+"[te] akatarewa, waimate co..",-44.608,170.243,"[{'place_name': 'waimate', 'feature_type': 'Historic Site'}]",waimate,Historic Site,0.0,0.0
+"[the groynes, belfast-harewood rd.]",-43.452246,172.598312,"[{'place_name': 'the groynes', 'feature_type': 'Place'}, {'place_name': 'belfast', 'feature_type': 'Locality'}]",harewood,Suburb,0.0,0.0
+"[the] cascades,  [waitakere range, auckland]",-36.890333,174.523287,"[{'place_name': 'auckland', 'feature_type': 'City'}]",auckland,City,0.0,0.0
+"[the] woolsack, okuru, sth westland",-43.9929,168.927,"[{'place_name': 'okuru', 'feature_type': 'Locality'}]",okuru,Locality,0.0,0.0
+"[the] woolsack, okuru, sth westland",-43.99328,168.92961,"[{'place_name': 'okuru', 'feature_type': 'Locality'}]",okuru,Locality,0.0,0.0
+"[tokatoka, 10 miles south of dargaville]",-36.058,173.975,"[{'place_name': 'tokatoka', 'feature_type': 'Locality'}]",dargaville,Town,0.0,0.0
+[tongariro] national park,-39.208526,175.584461,"[{'place_name': 'tongariro', 'feature_type': 'Locality'}]",national park,Village,0.0,0.0
+[tongariro] national park east,-39.126603,175.777514,"[{'place_name': 'tongariro', 'feature_type': 'Locality'}]",national park,Village,0.0,0.0
+"[tongariro] national park, mount hauhungatahi",-39.228673,175.44417,"[{'place_name': 'tongariro', 'feature_type': 'Locality'}, {'place_name': 'national park', 'feature_type': 'Village'}]",hauhungatahi,Hill,0.0,0.0
+[track at end of putara road],-40.687712,175.548889,"[{'place_name': 'end', 'feature_type': 'Hill'}]",putara,Locality,0.0,0.0
+"[tuahu track, katikati, tauranga county]",-37.600594,175.86053,"[{'place_name': 'tuahu', 'feature_type': 'Hill'}, {'place_name': 'katikati', 'feature_type': 'Town'}]",tauranga,City,0.0,0.0
+"[two mile, queenstown]",-45.034,168.635,"[{'place_name': 'queenstown', 'feature_type': 'Town'}]",queenstown,Town,0.0,0.0
+"[upper orongorongo valley, wellington]",-41.251577,175.052618,"[{'place_name': 'wellington', 'feature_type': 'City'}]",wellington,City,0.0,0.0
+"[waimakariri, kainga]",-43.407442,172.660337,"[{'place_name': 'kainga', 'feature_type': 'Locality'}]",kainga,Locality,0.0,0.0
+[waiohine gorge road],-41.010813,175.394777,"[{'place_name': 'waiohine', 'feature_type': 'Hill'}]",gorge road,Locality,0.0,0.0
+"[waitaanga, taumarunui county.]",-38.833146,174.815679,"[{'place_name': 'waitaanga', 'feature_type': 'Locality'}]",taumarunui,Town,0.0,0.0
+"[wellington], otari",-41.2376,174.909,"[{'place_name': 'wellington', 'feature_type': 'City'}]",wellington,City,0.0,0.0
+[west coast] punakaiki,-42.1172,171.325,"[{'place_name': 'punakaiki', 'feature_type': 'Locality'}]",punakaiki,Locality,0.0,0.0
+"[west otago], l. harris.",-44.733804,168.162155,"[{'place_name': 'harris', 'feature_type': 'Trig Station'}]",harris,Trig Station,0.0,0.0
+"[west otago], lake mackenzie",-44.769738,168.159181,"[{'place_name': 'lake mackenzie', 'feature_type': 'Lake'}]",lake mackenzie,Lake,0.0,0.0
+"[wgton., mauriceville, 2 m. north of masterton]",-40.773868,175.706742,"[{'place_name': 'mauriceville', 'feature_type': 'Locality'}]",masterton,Town,0.0,0.0
+"[william upton] hewitt memorial reserve, near whangarei",-35.2185,173.787,"[{'place_name': 'upton', 'feature_type': 'Hill'}]",upton,Hill,0.0,0.0
+"\arthur's pass national park, blimit",-42.91181,171.590635,"[{'place_name': 'national park', 'feature_type': 'Village'}]",blimit,Hill,0.0,0.0
+"\arthur's pass national park, blimit cirque",-42.9119,171.590633,"[{'place_name': 'national park', 'feature_type': 'Village'}]",blimit,Hill,0.0,0.0
+`homebush' coalgate,-43.479761,171.961527,"[{'place_name': 'homebush', 'feature_type': 'Locality'}]",coalgate,Locality,0.0,0.0
+"`homebush', coalgate",-43.479761,171.961527,"[{'place_name': 'homebush', 'feature_type': 'Locality'}]",coalgate,Locality,0.0,0.0
+"`otahuna', tai tapu",-43.658274,172.582665,"[{'place_name': 'tai tapu', 'feature_type': 'Locality'}]",tai tapu,Locality,0.0,0.0
+"`otahuna', tai tapu",-43.660732,172.583843,"[{'place_name': 'tai tapu', 'feature_type': 'Locality'}]",tai tapu,Locality,0.0,0.0
+"`otahuna', tai tapu",-43.658252,172.584931,"[{'place_name': 'tai tapu', 'feature_type': 'Locality'}]",tai tapu,Locality,0.0,0.0
+`pirorua bluff',-38.151196,174.996161,"[{'place_name': 'bluff', 'feature_type': 'Hill'}]",bluff,Hill,0.0,0.0
+"<i>c.</i> 1,5/8m n of kaiapoi",-43.366882,172.642057,"[{'place_name': 'kaiapoi', 'feature_type': 'Town'}]",kaiapoi,Town,0.0,0.0
+"0.2 km w of lyell picnic ground, route 6",-41.795787,172.04594,"[{'place_name': 'lyell', 'feature_type': 'Locality'}]",lyell,Locality,0.0,0.0
+"0.5 mile ne of mouth of big r., nw nelson coast",-40.769,172.25825,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+"0.5km south of poulter bridge, terrace face",-43.044459,171.908756,"[{'place_name': 'terrace', 'feature_type': 'Flat'}]",terrace,Flat,0.0,0.0
+0.5km west of poulter river road bridge,-43.042588,171.901424,"[{'place_name': 'poulter river', 'feature_type': 'Stream'}]",poulter river,Stream,0.0,0.0
+0.5km west of poulter river road bridge,-43.047029,171.895208,"[{'place_name': 'poulter river', 'feature_type': 'Stream'}]",poulter river,Stream,0.0,0.0
+"0.8 km n bullock creek, near punakaiki",-42.1,171.333,"[{'place_name': 'bullock creek', 'feature_type': 'Stream'}]",punakaiki,Locality,0.0,0.0
+"06.01, whangarei heads, parauwanui beach",-35.709246,174.520869,"[{'place_name': 'parauwanui beach', 'feature_type': 'Beach'}]",parauwanui beach,Beach,0.0,0.0
+1 (near gisborne - see notebook),-38.667118,177.94273,"[{'place_name': 'gisborne', 'feature_type': 'Town'}]",gisborne,Town,0.0,0.0
+1 1/4 miles southeast of hinds river mouth.,-44.169361,171.624534,"[{'place_name': 'hinds river', 'feature_type': 'Stream'}]",hinds river,Stream,0.0,0.0
+"1 3/4 miles south east of hinds, canterbury",-44.001792,171.570573,"[{'place_name': 'hinds', 'feature_type': 'Locality'}]",hinds,Locality,0.0,0.0
+"1 ½ m ene of sefton, canterbury",-43.24643,172.69919,"[{'place_name': 'sefton', 'feature_type': 'Locality'}]",sefton,Locality,0.0,0.0
+"1 ½ miles south east of omihi, north canterbury",-43.0141,172.86627,"[{'place_name': 'omihi', 'feature_type': 'Locality'}]",omihi,Locality,0.0,0.0
+1 k sth of punakaiki r,-42.136,171.332,"[{'place_name': 'punakaiki', 'feature_type': 'Locality'}]",punakaiki,Locality,0.0,0.0
+1 km n hokitika,-42.716666,170.95,"[{'place_name': 'hokitika', 'feature_type': 'Town'}]",hokitika,Town,0.0,0.0
+"1 km south of hawera, beside main road",-39.601486,174.297165,"[{'place_name': 'hawera', 'feature_type': 'Locality'}]",hawera,Locality,0.0,0.0
+"1 km south of summit of pilbrows hill on route 1, near brynderwyn",-36.073001,174.420134,"[{'place_name': 'summit', 'feature_type': 'Locality'}]",brynderwyn,Locality,0.0,0.0
+1 km west of sumner.,-43.574163,172.739874,"[{'place_name': 'sumner', 'feature_type': 'Suburb'}]",sumner,Suburb,0.0,0.0
+1 m [mile] n of wellsford,-36.278782,174.517071,"[{'place_name': 'wellsford', 'feature_type': 'Locality'}]",wellsford,Locality,0.0,0.0
+"1 m. n of moana, lake brunner, westland",-42.561,171.483,"[{'place_name': 'moana', 'feature_type': 'Suburb'}]",brunner,Locality,0.0,0.0
+"1 m. north of ngakawau, buller co., south west nelson",-41.590887,171.889437,"[{'place_name': 'ngakawau', 'feature_type': 'Locality'}]",nelson,City,0.0,0.0
+1 m. s of springston south,-43.699055,172.429212,"[{'place_name': 'springston south', 'feature_type': 'Locality'}]",springston south,Locality,0.0,0.0
+"1 m. s of springston south, canterbury",-43.69407,172.4438,"[{'place_name': 'springston south', 'feature_type': 'Locality'}]",springston south,Locality,0.0,0.0
+"1 m. west of te kawa, waipa co",-38.102957,175.255977,"[{'place_name': 'te kawa', 'feature_type': 'Hill'}]",te kawa,Hill,0.0,0.0
+"1 mile east of mangatarata, hauraki plains co",-37.2938,175.371,"[{'place_name': 'mangatarata', 'feature_type': 'Locality'}]",hauraki plains,Flat,0.0,0.0
+1 mile east of te araroa,-37.636837,178.379884,"[{'place_name': 'te araroa', 'feature_type': 'Locality'}]",te araroa,Locality,0.0,0.0
+"1 mile east of ngahere, west coast",-42.394136,171.444576,"[{'place_name': 'ngahere', 'feature_type': 'Locality'}]",ngahere,Locality,0.0,0.0
+1 mile east of springs junction,-42.347832,172.190439,"[{'place_name': 'springs junction', 'feature_type': 'Locality'}]",springs junction,Locality,0.0,0.0
+1 mile east of springs junction,-42.3478,172.09,"[{'place_name': 'springs junction', 'feature_type': 'Locality'}]",springs junction,Locality,0.0,0.0
+"1 mile from netherby, ssw of peat swamp",-37.593219,175.278052,"[{'place_name': 'netherby', 'feature_type': 'Locality'}]",netherby,Locality,0.0,0.0
+"1 mile inland from marsden, westland",-42.561319,171.221849,"[{'place_name': 'marsden', 'feature_type': 'Locality'}]",marsden,Locality,0.0,0.0
+"1 mile inland from marsden, westland",-42.557377,171.219744,"[{'place_name': 'marsden', 'feature_type': 'Locality'}]",marsden,Locality,0.0,0.0
+"1 mile inland from puponga, north west nelson",-40.52,172.704,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+"1 mile inland from puponga, north west nelson",-40.532,172.686,"[{'place_name': 'nelson', 'feature_type': 'City'}]",nelson,City,0.0,0.0
+"1 mile north  ""manga-o-tane"" station, raukumara range",-38.136,177.834,"[{'place_name': 'tane', 'feature_type': 'Locality'}]",tane,Locality,0.0,0.0
+"1 mile north ""manga-o-tane"" station, raukumara range",-38.12,177.839,"[{'place_name': 'tane', 'feature_type': 'Locality'}]",tane,Locality,0.0,0.0
+"1 mile north of mt rewa, e wairarapa",-41.047802,175.978717,"[{'place_name': 'rewa', 'feature_type': 'Locality'}]",rewa,Locality,0.0,0.0
+"1 mile north of mt rewa, east wairarapa",-41.047802,175.978717,"[{'place_name': 'rewa', 'feature_type': 'Locality'}]",rewa,Locality,0.0,0.0
+1 mile north of te kuiti,-38.321621,175.137242,"[{'place_name': 'te kuiti', 'feature_type': 'Locality'}]",te kuiti,Locality,0.0,0.0
+"1 mile ne of morven hills station, lindis pass, south island",-44.643973,169.509506,"[{'place_name': 'morven', 'feature_type': 'Locality'}, {'place_name': 'lindis pass', 'feature_type': 'Pass'}]",south island,Island,0.0,0.0
+"1 mile north of hakatere on lake heron road, canty",-43.595661,171.154413,"[{'place_name': 'hakatere', 'feature_type': 'Locality'}]",lake heron,Lake,0.0,0.0
+"1 mile north of te weraiti, kaimai range, south auckland",-37.817505,175.905848,"[{'place_name': 'te weraiti', 'feature_type': 'Hill'}, {'place_name': 'kaimai range', 'feature_type': 'Range'}]",auckland,Local Authority,0.0,0.0
+"1 mile north of te weraiti, kaimai range, south auckland",-37.8129,175.911,"[{'place_name': 'te weraiti', 'feature_type': 'Hill'}, {'place_name': 'kaimai range', 'feature_type': 'Range'}]",auckland,Local Authority,0.0,0.0
+"1 mile north-west of lake, lake ianthe state forest",-43.160899,170.540249,"[{'place_name': 'lake ianthe', 'feature_type': 'Lake'}]",lake ianthe,Lake,0.0,0.0
+1 mile rotorua side of te whaiti,-38.604033,176.754423,"[{'place_name': 'rotorua', 'feature_type': 'City'}]",te whaiti,Locality,0.0,0.0
+"1 mile south of okari river, between charleston and westport, westland",-41.845,171.556,"[{'place_name': 'charleston', 'feature_type': 'Locality'}]",westport,Town,0.0,0.0
+"1 mile south west of springsdale, hauraki plains.",-37.537343,175.566033,"[{'place_name': 'hauraki plains', 'feature_type': 'Flat'}]",hauraki plains,Flat,0.0,0.0
+"1 mile se of key summit, near cascade creek, south island",-44.891262,168.096161,"[{'place_name': 'key summit', 'feature_type': 'Hill'}, {'place_name': 'cascade creek', 'feature_type': 'Locality'}]",south island,Island,0.0,0.0
+"1 mile se of key summit, near cascade creek, south island",-44.815178,168.127228,"[{'place_name': 'key summit', 'feature_type': 'Hill'}, {'place_name': 'cascade creek', 'feature_type': 'Locality'}]",south island,Island,0.0,0.0
+"1 mile south of lake mapourika, on road to waiho, westland",-43.34332,170.21083,"[{'place_name': 'lake mapourika', 'feature_type': 'Lake'}]",waiho,Hill,0.0,0.0
+"1 mile sth of minaret creek [minaret burn], w side of lake wanaka",-44.524717,169.061209,"[{'place_name': 'minaret burn', 'feature_type': 'Stream'}]",minaret burn,Stream,0.0,0.0
+1 mile w of kaiapoi,-43.38128,172.63075,"[{'place_name': 'kaiapoi', 'feature_type': 'Town'}]",kaiapoi,Town,0.0,0.0
+"1 mile west of main highway, saltwater creek, near fox glacier, westland",-43.487056,169.883848,"[{'place_name': 'saltwater creek', 'feature_type': 'Locality'}]",fox glacier,Glacier,0.0,0.0
+"1 mile west of main highway, saltwater creek, sth westland",-43.50214,169.85232,"[{'place_name': 'saltwater creek', 'feature_type': 'Locality'}]",saltwater creek,Locality,0.0,0.0
+"1 ml west of kohu kohu [kohukohu], hokianga harbour, hokianga co., north island",-35.359,173.528,"[{'place_name': 'kohukohu', 'feature_type': 'Locality'}, {'place_name': 'hokianga harbour', 'feature_type': 'Bay'}]",north island,Island,0.0,0.0
+"1 rawhiti street, dannevirke",-40.210719,176.091405,"[{'place_name': 'rawhiti', 'feature_type': 'Locality'}]",dannevirke,Town,0.0,0.0
+"1.1/8m.e of greenpark huts, near lake ellesmere",-43.758123,172.559043,"[{'place_name': 'greenpark huts', 'feature_type': 'Locality'}]",ellesmere,Locality,0.0,0.0
+"1.5 miles west south west of whakahoro, wanganui river",-39.125633,175.035073,"[{'place_name': 'whakahoro', 'feature_type': 'Locality'}]",wanganui river,Stream,0.0,0.0
+"1.6km north of mount rewa, east wairarapa",-41.051428,175.97457,"[{'place_name': 'rewa', 'feature_type': 'Locality'}]",rewa,Locality,0.0,0.0
+1.8 mile along road from whirinaki stream. (rotorua side). near te whaiti,-38.60441,176.742951,"[{'place_name': 'whirinaki stream', 'feature_type': 'Stream'}, {'place_name': 'rotorua', 'feature_type': 'City'}]",te whaiti,Locality,0.0,0.0
+"1/2 mile from gouland downs hut on mckay hut side, north west nelson",-40.891974,172.335604,"[{'place_name': 'gouland downs', 'feature_type': 'Flat'}]",nelson,City,0.0,0.0
+"1/2 mile west of owhiro bay, southwellington coast",-41.350962,174.746261,"[{'place_name': 'owhiro', 'feature_type': 'Locality'}]",owhiro,Locality,0.0,0.0
+1/2 way between punakaiki and westport,-41.944369,171.424434,"[{'place_name': 'punakaiki', 'feature_type': 'Locality'}]",westport,Town,0.0,0.0
+1/4 km south of  lake tennyson,-42.213831,172.74209,"[{'place_name': 'lake tennyson', 'feature_type': 'Lake'}]",lake tennyson,Lake,0.0,0.0
+10 ½ miles south west cheviot,-42.944291,173.107843,"[{'place_name': 'cheviot', 'feature_type': 'Locality'}]",cheviot,Locality,0.0,0.0
+"10 ½ miles south west of cheviot, canterbury",-42.94429,173.10785,"[{'place_name': 'cheviot', 'feature_type': 'Locality'}]",cheviot,Locality,0.0,0.0
+"10 beacon ave, campbell's bay, auckland",-36.751145,174.75359,"[{'place_name': 'beacon', 'feature_type': 'Hill'}]",auckland,Local Authority,0.0,0.0
+"10 beacon ave., campbell's bay, auckland",-36.751145,174.75359,"[{'place_name': 'beacon', 'feature_type': 'Hill'}]",auckland,City,0.0,0.0
+10 km before mossburn,-45.625791,168.151417,"[{'place_name': 'mossburn', 'feature_type': 'Locality'}]",mossburn,Locality,0.0,0.0
+10 km sth of greymouth,-42.533547,171.173948,"[{'place_name': 'greymouth', 'feature_type': 'Town'}]",greymouth,Town,0.0,0.0
+10 mile bush near te anau,-45.417,167.699,"[{'place_name': 'te anau', 'feature_type': 'Town'}]",te anau,Town,0.0,0.0
+"10 mile creek,  north of greymouth",-36.969,174.515,"[{'place_name': 'greymouth', 'feature_type': 'Town'}]",greymouth,Town,0.0,0.0
+"10 mile creek,  north of greymouth, westland",-36.969,174.515,"[{'place_name': 'greymouth', 'feature_type': 'Town'}]",greymouth,Town,0.0,0.0
+10 miles inland on the haast river,-43.968071,169.196671,"[{'place_name': 'haast river', 'feature_type': 'Stream'}]",haast river,Stream,0.0,0.0
+"10 miles north of kerikeri, north auckland",-35.147,173.943,"[{'place_name': 'kerikeri', 'feature_type': 'Town'}]",auckland,City,0.0,0.0
+10 miles south from fox glacier,-43.51,169.868,"[{'place_name': 'fox glacier', 'feature_type': 'Glacier'}]",fox glacier,Glacier,0.0,0.0
+"10 miles south of greymouth, marsden",-42.561128,171.209675,"[{'place_name': 'greymouth', 'feature_type': 'Town'}]",marsden,Locality,0.0,0.0
+10 miles south of piopio,-38.588335,175.0347,"[{'place_name': 'piopio', 'feature_type': 'Locality'}]",piopio,Locality,0.0,0.0
+10.5 km nw glenorchy,-44.783336,168.414187,"[{'place_name': 'glenorchy', 'feature_type': 'Locality'}]",glenorchy,Locality,0.0,0.0
+"10.5km north west glenorchy, rees valley rd",-44.783333,168.45,"[{'place_name': 'glenorchy', 'feature_type': 'Locality'}]",rees valley,Locality,0.0,0.0
+10/10 eccles street gore,-46.104361,168.938488,"[{'place_name': 'gore', 'feature_type': 'Town'}]",gore,Town,0.0,0.0
+"100 m north of whakaki, hawkes bay",-39.047842,177.61561,"[{'place_name': 'whakaki', 'feature_type': 'Locality'}]",whakaki,Locality,0.0,0.0
+"100 m south 12 mile bluff, westport - greymouth coastal road, by cox creek",-42.321533,171.272719,"[{'place_name': 'bluff', 'feature_type': 'Hill'}, {'place_name': 'westport', 'feature_type': 'Town'}]",greymouth,Town,0.0,0.0
+100 m west of end of arthur's pass township.,-42.921722,171.558132,"[{'place_name': 'end', 'feature_type': 'Trig Station'}]",arthur's pass,Locality,0.0,0.0
+"100 yds downstream from smith ck. hut, tauherenikau river, tararua range",-40.991043,175.337175,"[{'place_name': 'tauherenikau river', 'feature_type': 'Stream'}]",tararua range,Range,0.0,0.0
+1000 acre plateau,-41.58751,172.32111,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",plateau,Hill,0.0,0.0
+1000 acre plateau,-41.59983,172.3221,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",plateau,Hill,0.0,0.0
+1000 acre plateau site 1,-41.584366,172.207716,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",plateau,Hill,0.0,0.0
+1000 acre plateau site 1,-41.584367,172.207717,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",plateau,Hill,0.0,0.0
+1000 acre plateau site 2,-41.614033,172.322116,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",plateau,Hill,0.0,0.0
+"1000 acre plateau, matiri ra., nw nelson",-41.625058,172.290134,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",nelson,City,0.0,0.0
+"1000 acres plateau, matiri ra. nw nelson",-41.641522,172.290335,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",nelson,City,0.0,0.0
+"1000 acres plateau, matiri ra., northw nelson",-41.625058,172.290134,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",nelson,City,0.0,0.0
+"1000 acres plateau, matiri ra., nw nelson",-41.629211,172.284698,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",nelson,City,0.0,0.0
+"1000 acres plateau, matiri ra., nw nelson",-41.625058,172.290134,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",nelson,City,0.0,0.0
+"1000 acres plateau, matiri ra., nw nelson",-41.6169,172.279064,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",nelson,City,0.0,0.0
+"1000 acres plateau, matiri ra., nw nelson",-41.633365,172.279262,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",nelson,City,0.0,0.0
+"1000 acres plateau, matiri ra., nw nelson",-41.620979,172.284598,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",nelson,City,0.0,0.0
+"1000 acres plateau, mw nelson, matiri ra",-41.625058,172.290134,"[{'place_name': 'plateau', 'feature_type': 'Hill'}]",nelson,City,0.0,0.0
+"100m from dam, close to carpark, rocky outcrops, flat top hill / butcher's dam, central otago",-45.343277,169.318429,"[{'place_name': 'flat top hill', 'feature_type': 'Ridge'}]",central otago,Area,0.0,0.0
+"105 lodder lane, riwaka",-41.082811,173.004941,"[{'place_name': 'riwaka', 'feature_type': 'Locality'}]",riwaka,Locality,0.0,0.0
+"1061 makino road, feilding",-40.136057,175.608308,"[{'place_name': 'makino', 'feature_type': 'Locality'}]",feilding,Town,0.0,0.0
+"107 edwards street, thames",-37.13772,175.5467,"[{'place_name': 'thames', 'feature_type': 'Town'}]",thames,Town,0.0,0.0
+"10½ miles south west of cheviot, canterbury",-42.944291,173.107843,"[{'place_name': 'cheviot', 'feature_type': 'Locality'}]",cheviot,Locality,0.0,0.0
+"10½ miles south west of cheviot, canterbury",-42.94429,173.10785,"[{'place_name': 'cheviot', 'feature_type': 'Locality'}]",cheviot,Locality,0.0,0.0
+10½ miles south west of cheviot,-42.944346,173.107706,"[{'place_name': 'cheviot', 'feature_type': 'Locality'}]",cheviot,Locality,0.0,0.0
+10½ miles southwest of cheviot,-42.944346,173.107706,"[{'place_name': 'cheviot', 'feature_type': 'Locality'}]",cheviot,Locality,0.0,0.0
+"10km se rangitaiki, monowao flats",-38.866,176.366,"[{'place_name': 'rangitaiki', 'feature_type': 'Locality'}]",rangitaiki,Locality,0.0,0.0
+"10ml. creek, 3 ½ mls north of dunollie, west side paparoa mt. range - nr greymouth",-42.454441,171.297858,"[{'place_name': 'dunollie', 'feature_type': 'Suburb'}, {'place_name': 'paparoa', 'feature_type': 'Point'}]",greymouth,Town,0.0,0.0
+10ml. creek. paparoa ra. west side: nr greymouth,-42.454441,171.297858,"[{'place_name': 'paparoa', 'feature_type': 'Point'}]",greymouth,Town,0.0,0.0
+"11 caen rd, panmure",-36.9,174.86,"[{'place_name': 'panmure', 'feature_type': 'Suburb'}]",panmure,Suburb,0.0,0.0
+"11 edward street, dannevirke",-40.202156,176.097007,"[{'place_name': 'dannevirke', 'feature_type': 'Town'}]",dannevirke,Town,0.0,0.0
+11 km s murchison,-41.804483,172.328593,"[{'place_name': 'murchison', 'feature_type': 'Town'}]",murchison,Town,0.0,0.0
+"11 km s murchison, buller scenic reserve",-41.804483,172.328593,"[{'place_name': 'murchison', 'feature_type': 'Town'}]",murchison,Town,0.0,0.0
+"11 km s of murchison, fern flat road, along buller river",-41.804483,172.328593,"[{'place_name': 'murchison', 'feature_type': 'Town'}, {'place_name': 'fern flat', 'feature_type': 'Locality'}]",buller river,Stream,0.0,0.0
+"11 miles north northeast of lumsden, mid dome",-45.622134,168.511372,"[{'place_name': 'lumsden', 'feature_type': 'Locality'}]",mid dome,Hill,0.0,0.0
+"11.4 km e haast, xmas flat",-43.941166,169.14165,"[{'place_name': 'haast', 'feature_type': 'Town'}]",xmas flat,Flat,0.0,0.0
+"110 totara street, riccarton, christchurch",-43.528563,172.590378,"[{'place_name': 'totara', 'feature_type': 'Locality'}, {'place_name': 'riccarton', 'feature_type': 'Suburb'}]",christchurch,City,0.0,0.0
+"112 hackthorne road, christchurch",-43.578,172.628,"[{'place_name': 'hackthorne', 'feature_type': 'Locality'}]",christchurch,City,0.0,0.0
+"116 tauwharenikau road, tututawa, near stratford",-39.35679,174.511076,"[{'place_name': 'tauwharenikau road', 'feature_type': 'Road'}, {'place_name': 'tututawa', 'feature_type': 'Locality'}]",stratford,Town,0.0,0.0
+"12 delhi place, cashmere, christchurch 8022",-43.574692,172.621708,"[{'place_name': 'cashmere', 'feature_type': 'Suburb'}]",christchurch,City,0.0,0.0
+"12 ford rd, opawa, christchurch",-43.555202,172.660797,"[{'place_name': 'opawa', 'feature_type': 'Suburb'}]",christchurch,City,0.0,0.0
+"12 kinloch st., christchurch",-43.510855,172.628843,"[{'place_name': 'kinloch', 'feature_type': 'Locality'}]",christchurch,City,0.0,0.0
+"12 mile bluff, (greymouth)",-42.413,171.229,"[{'place_name': 'bluff', 'feature_type': 'Hill'}]",greymouth,Town,0.0,0.0
+"12 mile bluff, coast north of greymouth, westland, north west",-42.3948,171.25,"[{'place_name': 'bluff', 'feature_type': 'Hill'}]",greymouth,Town,0.0,0.0
+"12 mile creek, queenstown",-45.067441,168.546517,"[{'place_name': 'queenstown', 'feature_type': 'Town'}]",queenstown,Town,0.0,0.0
+"12 miles e of lake manapouri, on wilderness road, old man swamp",-45.468374,167.844335,"[{'place_name': 'lake manapouri', 'feature_type': 'Lake'}]",old man,Hill,0.0,0.0
+"1-2 miles east of cape turakirae, palliser bay",-41.432,174.917,"[{'place_name': 'palliser bay', 'feature_type': 'Bay'}]",palliser bay,Bay,0.0,0.0
+"12 miles north north east of waiau, lottery bush reserve",-42.54737,173.081516,"[{'place_name': 'waiau', 'feature_type': 'Hill'}]",waiau,Hill,0.0,0.0
+"12 orchard road, hahei",-36.84551,175.80731,"[{'place_name': 'hahei', 'feature_type': 'Locality'}]",hahei,Locality,0.0,0.0
+"12 peter buck rd., blockhouse bay",-36.912255,174.71166,"[{'place_name': 'blockhouse bay', 'feature_type': 'Bay'}]",blockhouse bay,Bay,0.0,0.0
+"12 peter buck rd., blockhouse bay, auckland",-36.914218,174.701607,"[{'place_name': 'blockhouse bay', 'feature_type': 'Bay'}]",auckland,Local Authority,0.0,0.0
+"12 peter buck road, blockhouse bay, auckland",-36.914218,174.701607,"[{'place_name': 'blockhouse bay', 'feature_type': 'Bay'}]",auckland,City,0.0,0.0
+"120 aranui rd, mt wellington, auckland",-36.9,174.8333,"[{'place_name': 'aranui', 'feature_type': 'Suburb'}, {'place_name': 'wellington', 'feature_type': 'City'}]",auckland,City,0.0,0.0
+"120 aranui rd. mt wellington, auckland",-36.9,174.8333,"[{'place_name': 'aranui', 'feature_type': 'Suburb'}, {'place_name': 'wellington', 'feature_type': 'City'}]",auckland,City,0.0,0.0
+"1225 leamington road, near waiau river",-42.729,173.215,"[{'place_name': 'leamington', 'feature_type': 'Suburb'}]",waiau river,Stream,0.0,0.0
+"124 actaeon road, makarewa, invercargill",-46.32605,168.354568,"[{'place_name': 'makarewa', 'feature_type': 'Stream'}]",invercargill,City,0.0,0.0
+"124 te hopai toad, pirinoa, featherston",-41.291,175.218,"[{'place_name': 'pirinoa', 'feature_type': 'Locality'}]",featherston,Town,0.0,0.0
+"1272 beach road east, ashburton",-44.005,171.856,"[{'place_name': 'ashburton', 'feature_type': 'Town'}]",ashburton,Town,0.0,0.0
+"12km se ruatahuna, taupeupe saddle",-38.633814,177.031369,"[{'place_name': 'ruatahuna', 'feature_type': 'Locality'}]",taupeupe saddle,Pass,0.0,0.0
+"13 rosamund place, halswell, christchurch",-43.573643,172.566563,"[{'place_name': 'halswell', 'feature_type': 'Suburb'}]",christchurch,City,0.0,0.0
+"13 rosamund place, halswell, christchurch.",-43.573643,172.566563,"[{'place_name': 'halswell', 'feature_type': 'Suburb'}]",christchurch,City,0.0,0.0
+13.2 km south of lewis pass,-42.466093,172.400356,"[{'place_name': 'lewis pass', 'feature_type': 'Pass'}]",lewis pass,Pass,0.0,0.0
+"130 mt harding road, methven",-43.615,171.628,"[{'place_name': 'methven', 'feature_type': 'Locality'}]",methven,Locality,0.0,0.0
+"131 liverton road, lower hutt",-41.172,174.951,"[{'place_name': 'lower hutt', 'feature_type': 'City'}]",lower hutt,City,0.0,0.0
+"138 king edward street, motueka",-41.123483,173.001846,"[{'place_name': 'motueka', 'feature_type': 'Town'}]",motueka,Town,0.0,0.0
+"138 king edward street, motueka - between concrete drive and retaining wall",-41.124248,173.010007,"[{'place_name': 'motueka', 'feature_type': 'Town'}]",motueka,Town,0.0,0.0
+"14 km northkaramea, north, kohaihai r., scotts beach track",-41.1,172.1,"[{'place_name': 'scotts beach', 'feature_type': 'Beach'}]",scotts beach,Beach,0.0,0.0
+14 mile bluff near greymouth,-42.319087,171.284929,"[{'place_name': 'bluff', 'feature_type': 'Hill'}]",greymouth,Town,0.0,0.0
+"14 mile bluff, north of greymouth",-42.3,171.287,"[{'place_name': 'bluff', 'feature_type': 'Hill'}]",greymouth,Town,0.0,0.0
+"14 miles from glade house, milford track, on an east facing slope",-44.84416,167.798172,"[{'place_name': 'milford', 'feature_type': 'Suburb'}]",milford,Suburb,0.0,0.0
+"14 punjab street, ngaio",-41.252449,174.786012,"[{'place_name': 'ngaio', 'feature_type': 'Suburb'}]",ngaio,Suburb,0.0,0.0
+"14 woodside common, westmorland, christchurch",-43.580976,172.603654,"[{'place_name': 'woodside', 'feature_type': 'Locality'}, {'place_name': 'westmorland', 'feature_type': 'Locality'}]",christchurch,City,0.0,0.0
+"144 heta road, new plymouth",-39.076709,174.099888,"[{'place_name': 'new plymouth', 'feature_type': 'City'}]",new plymouth,City,0.0,0.0
+"14½m [miles] n of tuatapere, southland",-45.922906,167.722001,"[{'place_name': 'tuatapere', 'feature_type': 'Locality'}]",tuatapere,Locality,0.0,0.0
+"14½m n of tuatapere, southland",-45.926816,167.715841,"[{'place_name': 'tuatapere', 'feature_type': 'Locality'}]",tuatapere,Locality,0.0,0.0
+14½m north of tuatapere,-45.93131,167.712096,"[{'place_name': 'tuatapere', 'feature_type': 'Locality'}]",tuatapere,Locality,0.0,0.0
+"15 kilometres east of tauranga, kaituna wildlife management reserve.",-37.82487,176.292626,"[{'place_name': 'tauranga', 'feature_type': 'City'}]",kaituna,Locality,0.0,0.0
+"15 km se of seddon, on waterfall road.",-41.67067,174.002863,"[{'place_name': 'seddon', 'feature_type': 'Locality'}]",seddon,Locality,0.0,0.0
+"15 km sw timaru, gordon valley",-44.448056,171.037222,"[{'place_name': 'timaru', 'feature_type': 'Town'}]",gordon valley,Valley,0.0,0.0
+"15 km west of waiau river mouth, te waewae bay",-46.227764,167.656249,"[{'place_name': 'waiau river', 'feature_type': 'Stream'}]",te waewae bay,Bay,0.0,0.0
+15 m from waioeka pa. opotiki- gisborne hw,-38.107233,177.28736,"[{'place_name': 'waioeka pa', 'feature_type': 'Locality'}]",gisborne,Town,0.0,0.0
+"15 the mews, lincoln",-43.643388,172.484705,"[{'place_name': 'lincoln', 'feature_type': 'Suburb'}]",lincoln,Suburb,0.0,0.0
+"150 carrington road, mt albert",-36.879416,174.711512,"[{'place_name': 'carrington', 'feature_type': 'Locality'}]",carrington,Locality,0.0,0.0
+,,,,,,-45.6693308,168.2347682
+,,,,,,-38.76191455,177.1020771935485
+,,,,,,-40.6218161,175.2865854
+,,,,,,-43.6396099,172.4860237
+,,,,,,-43.530955,172.6366455
+,,,,,,-42.4470854,173.1535443
+,,,,,,-43.4714859,171.5260623
+,,,,,,-43.74939,172.68144879763327
+,,,,,,-44.301577,169.1975334
+,,,,,,-44.34990745,168.7148481596373
+,,,,,,-43.7622543,170.1250573
+,,,,,,-46.59882,168.3433685
+,,,,,,-43.60487275,170.24107390865902
+,,,,,,-43.7656135,170.0428831
+,,,,,,-43.669943,170.2086042
+,,,,,,-43.7105518,170.0842842
+,,,,,,-43.7105518,170.0842842
+,,,,,,-41.4056242,173.0428332
+,,,,,,-42.46349645,172.6285244
+,,,,,,-38.5096377,175.6919967
+,,,,,,-36.852095,174.7631803
+,,,,,,-36.852095,174.7631803
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-43.8861104,172.2376463
+,,,,,,-42.894508,171.73109535836568
+,,,,,,-35.21121599999999,173.6466682039038
+,,,,,,-47.1322958,168.0024901
+,,,,,,-44.1247953,169.8363357
+,,,,,,-39.4772125,175.6697752
+,,,,,,-41.7495255,171.4819422
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-46.81661455,168.23912089628956
+,,,,,,-42.307097,172.7229013
+,,,,,,-43.9024396,171.7503327
+,,,,,,-40.89567,172.317131
+,,,,,,-35.193503899999996,173.73295635749702
+,,,,,,-40.89567,172.317131
+,,,,,,-39.282606,176.498212
+,,,,,,-41.1035504,172.68781930308958
+,,,,,,-41.2710849,173.2836756
+,,,,,,-40.89567,172.317131
+,,,,,,-40.89567,172.317131
+,,,,,,-40.89567,172.317131
+,,,,,,-40.89567,172.317131
+,,,,,,-40.89567,172.317131
+,,,,,,-40.89567,172.317131
+,,,,,,-38.7356,177.0644603
+,,,,,,-41.2710849,173.2836756
+,,,,,,-39.85821275,176.9884604633608
+,,,,,,-41.10658155,172.6287575654975
+,,,,,,-41.10658155,172.6287575654975
+,,,,,,-41.10658155,172.6287575654975
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.1848722,172.6258772
+,,,,,,-43.4940899,172.67360350749522
+,,,,,,-42.025389,173.853583
+,,,,,,-43.4283948,172.7012451
+,,,,,,-43.7597806,172.3003375
+,,,,,,-40.356317,175.6112388
+,,,,,,-40.356317,175.6112388
+,,,,,,-40.356317,175.6112388
+,,,,,,-40.356317,175.6112388
+,,,,,,-41.8840111,171.6389197
+,,,,,,-41.2887953,174.7772114
+,,,,,,-39.2927178,174.0262699
+,,,,,,-41.47447475,173.8330262577606
+,,,,,,-41.265715,175.160301
+,,,,,,-40.439883,176.106173
+,,,,,,-36.7550981,174.5943887
+,,,,,,-36.7550981,174.5943887
+,,,,,,-39.8870204,176.1171244
+,,,,,,-36.332871,175.518432
+,,,,,,-43.9024396,171.7503327
+,,,,,,-39.8991632,175.902093
+,,,,,,-43.89344815,170.52402115790798
+,,,,,,-40.8919807,173.7924463
+,,,,,,-41.754183,171.6035684
+,,,,,,-36.852095,174.7631803
+,,,,,,-41.46231,175.2928
+,,,,,,-45.5848922,168.5372243
+,,,,,,-46.986719699999995,167.88213801660544
+,,,,,,-46.986719699999995,167.88213801660544
+,,,,,,-46.986719699999995,167.88213801660544
+,,,,,,-46.986719699999995,167.88213801660544
+,,,,,,-46.986719699999995,167.88213801660544
+,,,,,,-46.986719699999995,167.88213801660544
+,,,,,,-46.099823,170.071117
+,,,,,,-40.3891365,176.07742939116034
+,,,,,,-41.0178856,175.2789996
+,,,,,,-40.8564398,175.1103943
+,,,,,,-40.6271223,175.4567197
+,,,,,,-42.3640296,171.4119525
+,,,,,,-44.7338811,171.042339
+,,,,,,-43.4784203,172.55728
+,,,,,,-36.852095,174.7631803
+,,,,,,-43.9067463,168.9000399
+,,,,,,-43.9067463,168.9000399
+,,,,,,-35.9412143,173.8685702
+,,,,,,-39.1727294,175.4037274
+,,,,,,-39.1727294,175.4037274
+,,,,,,-39.2293323,175.4440715
+,,,,,,-40.6607661,175.5732608
+,,,,,,-37.6859006,176.167505
+,,,,,,-45.0321923,168.661
+,,,,,,-41.2887953,174.7772114
+,,,,,,-38.98191,175.921704
+,,,,,,-46.47373,168.70309
+,,,,,,-38.8813562,175.2662649
+,,,,,,-41.2887953,174.7772114
+,,,,,,-42.1085542,171.3353148
+,,,,,,-36.9287092,174.896323
+,,,,,,-44.763396799999995,168.17419828031316
+,,,,,,-40.9495524,175.6594413
+,,,,,,-41.7650014,173.9169828
+,,,,,,-42.9118793,171.5906325
+,,,,,,-42.9118793,171.5906325
+,,,,,,-43.4806968,171.9663009
+,,,,,,-43.4806968,171.9663009
+,,,,,,-43.6595989,172.5502326
+,,,,,,-43.6595989,172.5502326
+,,,,,,-43.6595989,172.5502326
+,,,,,,-46.59882,168.3433685
+,,,,,,-43.3831623,172.6521689
+,,,,,,-41.7970556,172.0470357
+,,,,,,-41.2710849,173.2836756
+,,,,,,-40.707436,175.935145
+,,,,,,-42.8509156,171.8131802
+,,,,,,-42.8509156,171.8131802
+,,,,,,-42.1085542,171.3353148
+,,,,,,-35.7051978,174.51852180453864
+,,,,,,-38.661326,178.0206487
+,,,,,,-43.892055,171.4897359
+,,,,,,-43.9993057,171.5702837
+,,,,,,-43.2472392,172.6679918
+,,,,,,-43.020694,172.8540953
+,,,,,,-42.1085542,171.3353148
+,,,,,,-42.7178871,170.9646469
+,,,,,,-39.5893462,174.2837207
+,,,,,,-36.0967212,174.429678
+,,,,,,-43.5684808,172.7590631
+,,,,,,-36.2949669,174.5229842
+,,,,,,-42.4325318,171.3237247
+,,,,,,-41.2710849,173.2836756
+,,,,,,-43.6866029,172.4362993
+,,,,,,-43.6866029,172.4362993
+,,,,,,-38.079444,175.295333
+,,,,,,-37.280488,175.541424
+,,,,,,-37.6330949,178.3610171
+,,,,,,-39.289525,176.422532
+,,,,,,-42.3347563,172.1817907
+,,,,,,-42.3347563,172.1817907
+,,,,,,-43.9006996,171.7640422
+,,,,,,-42.5578686,171.2187696
+,,,,,,-42.5578686,171.2187696
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-40.5743913,175.8502579
+,,,,,,-40.5743913,175.8502579
+,,,,,,-37.0212811,174.897148
+,,,,,,-37.0212811,174.897148
+,,,,,,-38.3341925,175.1657117
+,,,,,,-43.586562,171.21232939964904
+,,,,,,-43.4678904,171.19667483148834
+,,,,,,-36.852095,174.7631803
+,,,,,,-36.852095,174.7631803
+,,,,,,-43.05707615,170.62410535503324
+,,,,,,-38.5871369,176.7818831
+,,,,,,-41.754183,171.6035684
+,,,,,,-37.280488,175.541424
+,,,,,,-43.586562,171.21232939964904
+,,,,,,-43.586562,171.21232939964904
+,,,,,,-43.284926,170.055518
+,,,,,,-44.4862853,169.0332007
+,,,,,,-43.3831623,172.6521689
+,,,,,,-43.51702845,170.1386965631589
+,,,,,,-44.4161962,171.2634445
+,,,,,,-46.81661455,168.23912089628956
+,,,,,,-40.2073897,176.0982442
+,,,,,,-43.6635918,172.3562861
+,,,,,,-43.1292968,170.6191636
+,,,,,,-37.0212811,174.897148
+,,,,,,-38.5871369,176.7818831
+,,,,,,-41.2710849,173.2836756
+,,,,,,-38.16283,174.86204
+,,,,,,-41.754183,171.6035684
+,,,,,,-42.199040600000004,172.72790851692218
+,,,,,,-42.8116534,173.2735027
+,,,,,,-42.8116534,173.2735027
+,,,,,,-36.852095,174.7631803
+,,,,,,-36.852095,174.7631803
+,,,,,,-45.6693308,168.2347682
+,,,,,,-42.4499469,171.2079875
+,,,,,,-45.41449,167.717489
+,,,,,,-42.4499469,171.2079875
+,,,,,,-42.4499469,171.2079875
+,,,,,,-43.9424621,169.2548101
+,,,,,,-36.852095,174.7631803
+,,,,,,-43.51702845,170.1386965631589
+,,,,,,-42.5578686,171.2187696
+,,,,,,-38.4675898,175.0145357
+,,,,,,-44.8495067,168.3900502
+,,,,,,-44.773152,168.4154963
+,,,,,,-46.0984482,168.9447811
+,,,,,,-39.0373194,177.5886512
+,,,,,,-42.4499469,171.2079875
+,,,,,,-42.9409528,171.5628387
+,,,,,,-40.6271223,175.4567197
+,,,,,,-41.10232,175.149769
+,,,,,,-41.10232,175.149769
+,,,,,,-41.10232,175.149769
+,,,,,,-41.10232,175.149769
+,,,,,,-41.10232,175.149769
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-41.2710849,173.2836756
+,,,,,,-45.350509,169.696148
+,,,,,,-41.0802399,172.9967803
+,,,,,,-40.2262765,175.5644409
+,,,,,,-37.137983,175.5418037
+,,,,,,-42.8116534,173.2735027
+,,,,,,-42.8116534,173.2735027
+,,,,,,-42.8116534,173.2735027
+,,,,,,-42.8116534,173.2735027
+,,,,,,-38.7466103,176.3657489
+,,,,,,-42.4499469,171.2079875
+,,,,,,-42.4499469,171.2079875
+,,,,,,-36.90125,174.855573
+,,,,,,-40.2073897,176.0982442
+,,,,,,-41.7995251,172.3286812
+,,,,,,-41.7995251,172.3286812
+,,,,,,-41.780162,172.188707
+,,,,,,-45.5848922,168.5372243
+,,,,,,-43.940639,169.131917
+,,,,,,-43.530955,172.6366455
+,,,,,,-43.530955,172.6366455
+,,,,,,-39.1509402,174.75590284993928
+,,,,,,-43.530955,172.6366455
+,,,,,,-43.530955,172.6366455
+,,,,,,-43.530955,172.6366455
+,,,,,,-42.4499469,171.2079875
+,,,,,,-42.4499469,171.2079875
+,,,,,,-45.0321923,168.661
+,,,,,,-45.141944,170.810028
+,,,,,,-41.490783500000006,175.11248166370734
+,,,,,,-38.9449495,177.0823219
+,,,,,,-36.838665,175.8074221277785
+,,,,,,-36.9197769,174.70147
+,,,,,,-36.852095,174.7631803
+,,,,,,-36.852095,174.7631803
+,,,,,,-36.852095,174.7631803
+,,,,,,-36.852095,174.7631803
+,,,,,,-38.9449495,177.0823219
+,,,,,,-46.4118465,168.3470632
+,,,,,,-41.1168142,175.3227241
+,,,,,,-43.9024396,171.7503327
+,,,,,,-38.6327245,177.0318319
+,,,,,,-43.530955,172.6366455
+,,,,,,-43.530955,172.6366455
+,,,,,,-42.3784958,172.4010257
+,,,,,,-43.6324332,171.6472608
+,,,,,,-41.2125751,174.9057626
+,,,,,,-41.112493,173.0094875
+,,,,,,-41.112493,173.0094875
+,,,,,,-41.09016545,172.10371983884772
+,,,,,,-42.4499469,171.2079875
+,,,,,,-42.4499469,171.2079875
+,,,,,,-36.7708928,174.7673032
+,,,,,,-29.2505355,-177.917775
+,,,,,,-43.530955,172.6366455
+,,,,,,-39.0579941,174.0806474
+,,,,,,-46.1323096,167.6907627
+,,,,,,-46.1323096,167.6907627
+,,,,,,-46.1323096,167.6907627
+,,,,,,-43.7464774,172.6862052
+,,,,,,-41.6711969,174.0733696
+,,,,,,-41.2911003,174.7703681258995
+,,,,,,-46.23531095,167.5195860295339
+,,,,,,-38.661326,178.0206487
+,,,,,,-43.6396099,172.4860237
+,,,,,,-40.9643933,175.5225992

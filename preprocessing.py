@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("data/sample_300.csv", header=0, sep=",")
+df = pd.read_csv("data/BioGeoRef cleaned data all.csv", header=0, sep=",")
 print(df.head)
 
 # Iterate over the rows of the DataFrame and expand cardinal data and change the data to lowercase
@@ -24,4 +24,4 @@ for index, row in df.iterrows():
     elif locality.startswith("s."):
         locality = locality.replace("s.", "south")
     df.at[index, 'Locality'] = locality
-df.to_csv('data/preprocessed_300.csv', header=True, sep=',', index=False)
+df.to_csv('data/preprocessed_all.csv', header=True, sep=',', index=False)
